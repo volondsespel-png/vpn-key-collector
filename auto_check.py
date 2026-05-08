@@ -211,6 +211,9 @@ def main():
         if result["working"]:
             filename = os.path.join(OUTPUT_DIR, f"{source_name}_working.txt")
             with open(filename, "w") as f:
+                # Добавляем заголовки для формата подписки
+                f.write("#profile-title: Ultav-White-VPN⚡\n")
+                f.write("#profile-update-interval: 2\n")
                 for key in result["working"]:
                     f.write(key["key"] + "\n")
     
