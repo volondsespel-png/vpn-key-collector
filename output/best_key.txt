@@ -1,1 +1,1 @@
-vless://11f0eeb6-c9e9-49c7-8eda-7ee1a4904e9b@viop.fast.hosting-ip.com:80?mode=auto&path=%2F&security=none&encryption=none&host=gogojiyour-name.global.ssl.fastly.net&type=xhttp#%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray_vmes%20%5B16%5D
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.67.215.191:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
