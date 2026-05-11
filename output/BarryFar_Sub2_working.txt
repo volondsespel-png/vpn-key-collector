@@ -1,22 +1,22 @@
 #profile-title: Ultav-White-VPN⚡
 #profile-update-interval: 2
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/&sni=sni.111000.indevs.in&fp=chrome#vmessorg
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vmessorg
+vless://425ef0c5-4e79-4aa5-bf9e-b847a0f73601@chatgpt.com:443?path=/vless-tls&security=tls&encryption=none&insecure=0&host=vpnazadie.store&type=ws&allowInsecure=0&sni=telegram.vpnazadie.store#Vpn_jet7
+vless://425ef0c5-4e79-4aa5-bf9e-b847a0f73601@chatgpt.com:443?path=/vless-tls&security=tls&encryption=none&insecure=0&host=vpnazadie.store&type=ws&allowInsecure=0&sni=telegram.vpnazadie.store#t.me/ConfigFori  -  Config 64850
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.48.197:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=/?https://t.me/wangcai2🇨🇳=&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#🇩🇪 t.me/Natrixo BB
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.185.207:443?allowInsecure=1&alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net:443&security=tls&sni=sni.111000.dynv6.net&type=ws#🇱🇻 t.me/Natrixo BB
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.17.207:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.army&path=/?https://t.me/wangcai2🇨🇳=&security=tls&sni=sni.111000.v6.army&type=ws#🇱🇻 t.me/Natrixo BB
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪1
-vless://3696ae53-2a25-4a8f-954d-b46547eb0f4c@104.16.142.113:80?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#t.me/ConfigFori  -  Config 64820
-vless://363a6072-05d7-48d5-8f19-312b05fdd9cd@104.18.13.229:2052?security=none&encryption=none&host=chosenflyesqt-q3y28ipf-v3.chosen-fly-esqt.workers.dev&type=ws#lldalall
 vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@172.64.149.54:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#68n17tb3
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?allowInsecure=1&encryption=none&host=powered-by-surena.configfarsi6982dd6e0355e.workers.dev&security=tls&sni=powered-by-surena.configfarsi6982dd6e0355e.workers.dev&type=ws#t.me/ConfigFori  -  Config 64854
 vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@104.18.4.130:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#68n17tb3
-vless://55398519-1ea3-4d2d-9365-1b723f64bd5a@snapp.ir:80?type=ws&encryption=none&path=/&host=dl6.lightningo.ir&security=none#t.me/ConfigFori  -  Config 64821
+vless://425ef0c5-4e79-4aa5-bf9e-b847a0f73601@chatgpt.com:443?path=/vless-tls&security=tls&encryption=none&insecure=0&host=vpnazadie.store&type=ws&allowInsecure=0&sni=telegram.vpnazadie.store#t.me/ConfigFori  -  Config 64838
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/&sni=sni.111000.indevs.in&fp=chrome#vmessorg
+vless://363a6072-05d7-48d5-8f19-312b05fdd9cd@104.18.13.229:2052?security=none&encryption=none&host=chosenflyesqt-q3y28ipf-v3.chosen-fly-esqt.workers.dev&type=ws#lldalall
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vmessorg
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=?ed=2560&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#canfingV2rayNG-153
+vless://4b3dc39a-7561-405c-b221-bb7038e8a6a7@snapp.ir:80?path=/&security=&encryption=none&host=moein.akosha.ir&type=ws#B_VPN_free
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪 3
-vless://72aba962-4f2d-459e-89a2-c8b2f89433d6@ads.restaurantplusy.ir:2052?path=/&security=none&encryption=none&host=ads.restaurantplusy.ir&type=ws#v2rayRoom
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#
-vless://2e075d78-9352-4339-b4dd-af86d5117f43@arvancloud.ir:80?path=/&security=none&encryption=none&host=t1.tunnellinuweb.ir&type=ws#t.me/ConfigFori  -  Config 64788
-vless://2ed014f5-dfaa-472c-9e64-91cc915b7ac8@185.143.235.21:8080?path=/path&security=none&encryption=none&host=tr-st4.ge9.ir&type=ws#ترکیبی+سایفون
-vless://2f1ac68e-06d4-4222-98c9-876fb47d1b0d@dl2.penguin-easyconnet.ir:80?path=/games/battlefied4&security=none&encryption=none&host=dl2.penguin-easyconnet.ir&type=ws#t.me/ConfigFori  -  Config 64789
-vless://515fa878-1381-4b2e-877a-7394d7135d5c@arvan.servermeli.xyz:80?path=/&security=none&encryption=none&host=conf1.chitav2.com&type=ws#TEL;Father_vpn
-vless://3cd763c4-4825-401f-b133-fa5cc7fa6e1e@snapp.ir:80?encryption=none&host=iranfuture.musicritmic.ir&path=/&security=none&type=ws#t.me/ConfigFori  -  Config 64807
+vless://55398519-1ea3-4d2d-9365-1b723f64bd5a@snapp.ir:80?type=ws&encryption=none&path=/&host=dl6.lightningo.ir&security=none#Vpn_jet7
+vless://3d0e06ce-de86-4bcd-87ab-99b5b4e47ffe@snapp.ir:80?type=ws&encryption=none&path=/&host=gm.borna-otbas.ir&security=none#pl-T
+vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮3
+vless://35431605-610b-4e20-9c0d-25c3616ff05b@snapp.ir:80?encryption=none&security=none&type=ws&host=brand2.bi6x.ir&path=/API/superip#vaslbemonim7
+vless://421e0bf7-fecd-4983-911e-9b41159389fc@snappfood.ir:443?path=/bspath&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=vaslbashi.tooorkshop.ir#اختصا۱ی کانال |Hunnter_VPN
+vless://44e68526-3852-4495-bc4f-80e80260ed3b@snapp.ir:2086?path=/&security=&encryption=none&host=beraghsaontop.dracodcodya.ir&type=ws#lldalall
