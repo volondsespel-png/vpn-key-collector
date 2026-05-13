@@ -1,1 +1,1 @@
-vless://f328ce2e-7410-4202-b99f-5f56c6012df5@join-masterserver.lehefe6790.workers.dev:443?path=ws&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=join-masterserver.lehefe6790.workers.dev&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=join-masterserver.lehefe6790.workers.dev#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40vpnv2raytop%20%231
+vless://21b5fbe4-e599-45a7-b0b1-4942912072c6@discord.com:2087?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=gold.rovamask.top#%F0%9F%87%A9%F0%9F%87%AAJoin+%40V2rayMask
