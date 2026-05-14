@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.47:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://11f0eeb6-c9e9-49c7-8eda-7ee1a4904e9b@viop.fast.hosting-ip.com:80?mode=auto&path=%2F&security=none&encryption=none&host=gogojiyour-name.global.ssl.fastly.net&type=xhttp#%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray_vmes%20%5B16%5D
