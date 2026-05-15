@@ -1,1 +1,1 @@
-vless://0328e45c-10a5-4bb2-b381-20b2c3470524@160.153.0.183:2053?security=tls&sni=PjYeUnLx69.jHyGyUc05-iNd5848Kk.fUn&type=httpupgrade&host=PjYeUnLx69.jHyGyUc05-iNd5848Kk.fUn&path=%2F&fp=chrome&alpn=h2#🔒 VL-HTTPUPGRADE-TLS 🇳🇱 NL-160.153.0.183:2053
+ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73742
