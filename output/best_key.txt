@@ -1,1 +1,1 @@
-vless://983da2df-bc52-4226-84c1-bbfef0704427@016fab73dd0e5521.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=nazan-baba-z1.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#t.me/ConfigFori  -  Config 73734
+vless://3875f716-ba0d-4f0f-b1e4-8392bd446045@poloniex.com:443?&security=tls&fp=chrome&sni=rAyAn-cOnFiG-de-1.pAriSa.dPdNs.oRg&type=ws&headerType=none&host=rAyAn-cOnFiG-de-1.pAriSa.dPdNs.oRg&path=%2Fws#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Bvl-tl-ws%5D%20%5B251218-011620.689%5D
