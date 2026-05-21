@@ -1,22 +1,22 @@
 #profile-title: Ultav-White-VPN⚡
 #profile-update-interval: 2
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@91.193.58.176:8880#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+91.193.58.176-8880+%7C+5.4ms
-ss://06430296-e070-4048-ba38-3662c09e52bc@162.159.25.180:2087?security=tls&sni=finland.hiytocloud.ir&type=grpc&alpn=h2,http/1.1#AutoAiVPN21745971
-ss://219d848d-60f2-4321-8275-72b9b575b37e@104.21.112.147:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN9609878
-ss://219d848d-60f2-4321-8275-72b9b575b37e@217.163.76.102:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#AutoAiVPN4493444
-ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=nargil.mrconfigur.site&amp;type=ws&amp;sni=nargil.mrconfigur.site#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-ss://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@108.162.194.176:443?path=%2Fsghiyws&amp;security=tls&amp;encryption=none&amp;host=terazhedi.info&amp;fp=chrome&amp;type=ws&amp;sni=terazhedi.info#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-ss://I--_ve-_ve-_ve-_vUkh77-9ax_vv71z77-9NO-_vToj77-977-977-977-9SSHvv71rH--_vXPvv70077-9@hajlab.ucdavis.edu:443# By EbraSha ⚡
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@91.193.58.159:8880#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+91.193.58.159-8880+%7C+2.88ms
-ss://1588ca4b-d27a-4447-9dfc-a772c3fe2baf@uk.api-music-fa.com:2053?encryption=none&security=tls&insecure=1&allowInsecure=1&type=ws&path=%2FJ5aLQOY1R9ONWYCM#AutoAiVPN14352935
-ss://7d18fc67-1994-4f7e-8ff8-c024223f33bb@vinted.fr:443?encryption=none&security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#AutoAiVPN12026149
+ss://7f09e7b4-4680-4653-a2da-307d110b6961@fAmoUS-EXpERiENcE.seOtOoLsforyou.cO.Uk:80?path=%2F&amp;security=&amp;encryption=none&amp;type=ws# By EbraSha 📶
+ss://I--_ve-_ve-_ve-_vUkh77-9ax_vv71z77-9NO-_vToj77-977-977-977-9SSHvv71rH--_vXPvv70077-9@hajlab.ucdavis.edu:443# By EbraSha 🎛️
+ss://1a7a6b22-a062-48b7-9949-6038de8f6414@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v06.drlimitemergency.net#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
+ss://219d848d-60f2-4321-8275-72b9b575b37e@162.159.207.150:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN8151779
 ss://376734bc-4db8-4317-b451-af0262cb01c7@www.speedtest.net:2087?encryption=none&security=tls&sni=invincible.fafa20.shop&alpn=http%2F1.1&fp=randomized&type=ws&host=invincible.fafa20.shop&path=%2Ftoluks7fj4lb1yq0%2Fmzquodgunjmumtyw%3Fed%3D2560#AutoAiVPN3438784
-ss://d94b374a-9584-4a40-9b1d-3e697b5551f4@flowershopsalzburg.de:2083?path=%2Fvlessws&security=tls&encryption=none&insecure=0&host=flowershopsalzburg.de&type=ws&allowInsecure=0#AutoAiVPN21243724
-ss://1fcb692d-d35f-4295-bbc5-0512f51a3c41@104.18.26.90:2053?path=%2Fcontainers%2Fde&security=tls&encryption=none&type=ws&sni=om3.omidsuccess.uk#AutoAiVPN12400767
 ss://ceae186b-1e60-4a64-9d52-200a63ef946b@CDN.user.com:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=&amp;sni=V2ray.SvnTeam.Cfd#%F0%9F%87%A9%F0%9F%87%AA%40VPN_OCEAN
-ss://e7519d7a-0956-4263-aaf0-1354a34df1c9@104.16.124.175:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=digikala&amp;sni=telEwebIoN.hAsmAIlkORea.stORe#%F0%9F%87%A9%F0%9F%87%AA%40V2rayN_Free
-ss://eaf2645e-e190-4d0e-8425-c5c8e84e8049@104.18.218.118:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=NEth80.eSFAhanSIMan.Co.uK.&type=ws&sni=NEth80.eSFAhanSIMan.Co.uK.#[🇺🇸]t.me/ConfigsHub`
-ss://f6c960f3-dc81-45ca-9891-4138f78d9125@boringdigital.nl:443?encryption=none&security=tls&sni=FalcuNaRgO.e9744be7d6.woRKeRs.DEv&type=ws&host=FalCUnaRGO.E9744be7D6.woRKERs.Dev&path=%2Fvn1-fm3_Ez8K-mTw%3Fed%3D2048#AutoAiVPN12516386
+ss://219d848d-60f2-4321-8275-72b9b575b37e@162.159.153.111:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN8603474
+ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#%40Golestan_VPN%20-%20%F0%9F%87%A9%F0%9F%87%AA
+ss://6006efbc-2751-44c5-8789-d38304d4303a@ico.org.uk:2087?flow=&type=ws&host=&path=/CPI&security=tls&sni=frag2.mAhSaAMiNi.CC&alpn=http/1.1,h2&fp=chrome&allowInsecure=0#AutoAiVPN12031858
+ss://c5a26821-7cc2-4fcf-8e53-3ca2e6d0abfe@ip-data.turkserver.ir:2087?security=tls&type=ws&headerType=&path=%2F&host=all-um1.netsnap.ir.&sni=all-um1.netsnap.ir.&fp=firefox&alpn=h2%2Chttp%2F1.1#%E2%8C%9C%20%F0%9F%87%AC%F0%9F%87%A7%20WS%20-%20TLS%20%E2%8C%9F
+ss://d6b5cf7a-e82c-4efb-9d01-eda0a834ee8d@api.fast.iphone-shopp.ir:80?mode=auto&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=wedbaz-germany1.net&type=xhttp#AutoAiVPN7261165
+ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@duke.ns.cloudflare.com:443?encryption=none&security=tls&sni=edgb.aimercc.dpdns.org&alpn=h3&fp=random&type=ws&host=edgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#AutoAiVPN3721553
+ss://f028a8c0-6763-4558-aee3-2563db9d7825@173.245.58.220:443?path=%2Fxxvclws&amp;security=tls&amp;encryption=none&amp;host=freudd.info&amp;fp=chrome&amp;type=ws&amp;sni=freudd.info#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@91.193.58.123:8880#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+91.193.58.123-8880+%7C+2.35ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@91.193.58.167:8880#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+91.193.58.167-8880+%7C+3.28ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@91.193.58.176:8880#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+91.193.58.176-8880+%7C+5.4ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@91.193.58.32:8880#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+91.193.58.32-8880+%7C+2.46ms
+ss://1588ca4b-d27a-4447-9dfc-a772c3fe2baf@uk.api-music-fa.com:2053?encryption=none&security=tls&insecure=1&allowInsecure=1&type=ws&path=%2FJ5aLQOY1R9ONWYCM#AutoAiVPN14352935
 ss://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws%3Fed&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=terazhedi.info#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+ss://2a1ccd5b-6683-4504-9c8b-7d3c3ab243c4@151.101.3.8:80?security=none&amp;type=ws&amp;host=tehran5.ir&amp;path=%2FTelegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
+ss://4ad29f1b-2cea-4ddc-b856-fab1ff141ac6@bRillIanT-KnOWLEDge.SeOTOoLsfoRYoU.cO.UK:80?path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&security=none&encryption=none&type=ws# By EbraSha ⚙️
