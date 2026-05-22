@@ -1,1 +1,1 @@
-vless://d028d7ab-4d81-4be8-838b-fd081bb1a5ba@lactation.ucdavis.edu:443?path=/vless&security=tls&encryption=none&alpn=h2,http/1.1&host=speedtest.net.ftp.debian.org.1.2.3.a.s.m.kkkkkkk.netspeedtest.net.ukwa.njsdl.ir&fp=chrome&type=ws&sni=lactation.ucdavis.edu# By EbraSha
+vless://2514586b-2e1e-4f05-b7c2-b08a62f2147d@104.21.97.154:2053?security=tls&sni=uk1.rustx.ir&type=grpc#
