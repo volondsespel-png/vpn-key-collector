@@ -1,1 +1,1 @@
-vless://2514586b-2e1e-4f05-b7c2-b08a62f2147d@104.21.97.154:2053?security=tls&sni=uk1.rustx.ir&type=grpc#
+vless://578ade22-1e58-4c37-ce01-bfad51a72c62@185.146.173.63:8443?security=tls&sni=1i3.diginoshops10.ir&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.63:8443
