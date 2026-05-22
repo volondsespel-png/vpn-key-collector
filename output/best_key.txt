@@ -1,1 +1,1 @@
-vless://Telegram-Parsashonam@kubernetes.io:443?mode=auto&path=/p4r34m&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"1-1","scMaxEachPostBytes":"1000000","headers":{"x-host":"netlify.parsashonam.sbs:444"}}&insecure=1&host=ir-netlify-unlimited-new.netlify.app&type=xhttp&allowInsecure=1&sni=kubernetes.io#t.me/ConfigFori  -  Config 73747
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#%F0%9F%87%BA%F0%9F%87%B8US-173.244.56.9-0094
