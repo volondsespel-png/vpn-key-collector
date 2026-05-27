@@ -1,1 +1,1 @@
-vless://7903e1c8-13c7-4091-9a17-253bddad208e@speedtest.net:80?encryption=none&type=ws&path=%2F&host=Asaaabi.global.ssl.fastly.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://b39ea5f2-ded9-48ed-9040-0b2875fab211@speedtest.net:80?encryption=none&type=ws&path=/&host=nleiyajji.global.ssl.fastly.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
