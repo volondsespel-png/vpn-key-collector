@@ -1,1 +1,1 @@
-vless://d028d7ab-4d81-4be8-838b-fd081bb1a5ba@lactation.ucdavis.edu:443?path=/vless&security=tls&encryption=none&alpn=h2,http/1.1&host=speedtest.net.ftp.debian.org.1.2.3.a.s.m.kkkkkkk.netspeedtest.net.ukwa.njsdl.ir&fp=chrome&type=ws&sni=lactation.ucdavis.edu# By EbraSha
+vless://384e0806-fcee-4f92-b671-bfc6a4794148@151.101.2.219:80?path=/&security=none&encryption=none&host=oijji.global.ssl.fastly.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
