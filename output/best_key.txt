@@ -1,1 +1,1 @@
-vless://0dafcdf5-3e7d-4970-beaf-73a17d67de96@speedtest.net:80?path=/&security=none&encryption=none&host=avasjji.global.ssl.fastly.net&type=ws#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A9%F0%9F%87%AA-Berlin-1013ms-Datacamp%20Limited
+vless://qeshmserver@151.101.3.8:80?type=xhttp&amp%3Bmode=auto&amp%3Bhost=qeshmserverfree.global.ssl.fastly.net&amp%3Bsecurity=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40qeshmserver%20%231
