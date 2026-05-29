@@ -1,22 +1,22 @@
 #profile-title: Ultav-White-VPN⚡
 #profile-update-interval: 2
-vless://52aa097b-57a8-4493-b571-a5804b71f12f@speedtest.net:80?encryption=none&type=ws&path=/&host=neszjzfeshab.global.ssl.fastly.net#24https://t.me/ConfigX2ray
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@162.159.38.183:2083?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#TEL;FATHER_VPN⁴
-vless://27302727-9dfa-4975-990e-88c7a63747cd@50.62.198.124:443?encryption=none&type=ws&security=tls&path=/&host=hi-wg.pages.dev&sni=hi-wg.pages.dev&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#😵‍💫https://t.me/ConfigX2ray
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@162.159.38.183:2083?encryption=none&type=xhttp&security=tls&path=/de&host=de.lezzatzone.ir&mode=stream-one&sni=de.lezzatzone.ir&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#8https://t.me/ConfigX2ray
-vless://27302727-9dfa-4975-990e-88c7a63747cd@50.62.198.124:443?encryption=none&type=ws&security=tls&path=/&host=ws-x1.pages.dev&sni=ws-x1.pages.dev&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#😆https://t.me/ConfigX2ray
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.17.121.71:443?encryption=none&type=xhttp&security=tls&path=/de&host=de.lezzatzone.ir&mode=stream-one&sni=de.lezzatzone.ir&fp=chrome&allowInsecure=0#7https://t.me/ConfigX2ray
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@162.159.38.183:2083?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#VpnFardad
-vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪 3
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir
-vless://27302727-9dfa-4975-990e-88c7a63747cd@50.62.198.124:443?encryption=none&type=ws&security=tls&path=/&host=hi-wg.pages.dev&sni=hi-wg.pages.dev&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#🙂https://t.me/ConfigX2ray
-vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮3
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.31.16.58:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#🇨🇦36549 | ⚡️Telegram = t.me/SOSkeyNET
-vless://2ee26119-94e5-40b4-ba3a-16354021b600@185.18.250.127:2096?path=/graphql&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=69565ce3109804e7813f98ee.mmdbay.blog&fp=chrome&type=ws&allowInsecure=0&sni=69565ce3109804e7813f98ee.mmdbay.blog#🇫🇮 t.me/Natrixo BB
-vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪1
-vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@63.141.128.5:2083?encryption=none&type=ws&security=tls&path=/?ed&sni=mzaxmc.lizardshop.org&fp=chrome&allowInsecure=0#21https://t.me/ConfigX2ray
-vless://4e93e8e6-8cc1-4a5b-b577-3d5bcae6ada0@104.17.121.238:2096?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=irdiplomacy.ir.rajanews.com.parstoday.com.donya-e-eqtesad.com.alalamtv.net.yjc.ir.tehrantimes.com&allowInsecure=0&sni=FAiNT-beliEFst4dReAkTi.WINdler.Co.Uk#🇨🇦36573 | ⚡️Telegram = t.me/SOSkeyNET
+vless://3346cea8-e082-4caa-9bd8-87e4588d3431@chetooriy.youregxa.ir:8443?encryption=none&type=ws&security=tls&path=/&host=chetooriy.youregxa.ir&sni=chetooriy.youregxa.ir&alpn=h2&fp=chrome&allowInsecure=1#3ConfigX2ray
+vless://3346cea8-e082-4caa-9bd8-87e4588d3431@chetooriy.youregxa.ir:8443?encryption=none&type=ws&security=tls&path=/&host=chetooriy.youregxa.ir&sni=chetooriy.youregxa.ir&alpn=h2&fp=chrome&allowInsecure=1#4https://
+vless://3346cea8-e082-4caa-9bd8-87e4588d3431@chetooriy.youregxa.ir:8443?encryption=none&type=ws&security=tls&path=/&host=chetooriy.youregxa.ir&sni=chetooriy.youregxa.ir&alpn=h2&fp=chrome&allowInsecure=1#6https://t.me/ConfigX2ray
+vless://3346cea8-e082-4caa-9bd8-87e4588d3431@chetooriy.youregxa.ir:8443?alpn=h2&encryption=none&fp=chrome&host=chetooriy.youregxa.ir&path=/&security=tls&sni=chetooriy.youregxa.ir&type=ws#🇨🇦37013 | ⚡️Telegram = t.me/SOSkeyNET
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮1
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&fp=chrome&type=xhttp&sni=de.xn--q9jyb4c.online#floor 555
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#NetMeli9-82
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?encryption=none&type=xhttp&security=tls&path=/de&host=de.lezzatzone.ir&mode=stream-one&sni=de.lezzatzone.ir&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#1https://t.me/ConfigX2ray
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@162.159.38.183:2083?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#TEL;FATHER_VPN⁴
+vless://27302727-9dfa-4975-990e-88c7a63747cd@50.62.198.124:443?encryption=none&type=ws&security=tls&path=/&host=ws-x1.pages.dev&sni=ws-x1.pages.dev&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#☺️https://t.me/ConfigX2ray
+vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮3
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.102:80?path=/&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#T.me/erfwp
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?path=/&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#🇨
+vless://252272d5-74df-4e86-b603-5894e9b06ef5@172.67.158.125:443?path=/&security=tls&encryption=none&insecure=1&host=pro.nimbaha.info&fp=chrome&type=ws&allowInsecure=1&sni=PrO.nImBaHa.InFo#Tel;Father_vpn
+vless://3346cea8-e082-4caa-9bd8-87e4588d3431@104.18.32.47:8443?alpn=h2&encryption=none&fp=chrome&host=chetooriy.youregxa.ir&path=/&security=tls&sni=chetooriy.youregxa.ir&type=ws#🇨🇦37015 | ⚡️Telegram = t.me/SOSkeyNET
+vless://3346cea8-e082-4caa-9bd8-87e4588d3431@104.18.32.47:8443?encryption=none&type=ws&security=tls&path=/&host=chetooriy.youregxa.ir&sni=chetooriy.youregxa.ir&alpn=h2&fp=chrome&allowInsecure=1#5https://
+vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪 3
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.27:80?path=/&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#T.me/erfwp
+vless://3346cea8-e082-4caa-9bd8-87e4588d3431@chetooriy.youregxa.ir:8443?encryption=none&type=ws&security=tls&path=/&host=chetooriy.youregxa.ir&sni=chetooriy.youregxa.ir&alpn=h2&fp=chrome&allowInsecure=1#4https://t.me/ConfigX2ray
+vless://3346cea8-e082-4caa-9bd8-87e4588d3431@chetooriy.youregxa.ir:8443?encryption=none&type=ws&security=tls&path=/&host=chetooriy.youregxa.ir&sni=chetooriy.youregxa.ir&alpn=h2&fp=chrome&allowInsecure=1#6https://
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@162.159.38.183:2083?encryption=none&type=xhttp&security=tls&path=/de&host=de.lezzatzone.ir&mode=stream-one&sni=de.lezzatzone.ir&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#8https://t.me/ConfigX2ray
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.143:80?path=/&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#T.me/erfwp
