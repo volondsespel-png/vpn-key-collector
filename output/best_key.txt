@@ -1,1 +1,1 @@
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@microsoft.com:443?encryption=none&type=ws&security=tls&path=/sg-melbi&host=cyylr.eu.cc&sni=cyylr.eu.cc&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#🇰🇪39023 | ⚡️Telegram = t.me/SOSkeyNET
+vless://da48859d-edf9-4a8c-a026-80910591f284@nytimes.com:80?encryption=none&security=none&type=xhttp&host=tignaltofansv8.global.ssl.fastly.net&path=%2FTignal&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
