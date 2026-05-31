@@ -1,1 +1,1 @@
-vless://c6f71723-35a8-4186-ad6e-2b3d39d9b4f8@dm.mega-bollywood.ir:80?encryption=none&type=xhttp&path=/&host=speedup58.global.ssl.fastly.net&mode=auto&extra={"xPaddingBytes":"100-1000"}#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%28West%29%20%7C%20%5BBL%5D
+vless://InternetAzadRobot-AliKiller@fastly.com:80?type=xhttp&security=none&path=/&host=InternetAzadRobot07gt745.global.ssl.fastly.net&mode=auto#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Roubaix%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
