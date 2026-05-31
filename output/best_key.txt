@@ -1,1 +1,1 @@
-vless://InternetAzadRobot@fastly.com:80?encryption=none&type=xhttp&path=/login&host=shangulin.global.ssl.fastly.net&mode=auto&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}#V2rayng_Fast
+vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪 3
