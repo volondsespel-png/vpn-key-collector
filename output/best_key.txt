@@ -1,1 +1,1 @@
-vless://c0909646-31ce-49d5-8210-d03dbfa0294c@speedtest.net:80?path=/&security=none&alpn=h2,http/1.1&encryption=none&host=my-server-test.global.ssl.fastly.net&fp=chrome&type=ws&sni=my-server-test.global.ssl.fastly.net#https://t.me/v2raynplus |🇨🇦
+vless://InternetAzadRobot@fastly.com:80?encryption=none&type=xhttp&path=/login&host=shangulin.global.ssl.fastly.net&mode=auto&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}#V2rayng_Fast
