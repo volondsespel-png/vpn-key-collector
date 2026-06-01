@@ -1,22 +1,22 @@
 #profile-title: Ultav-White-VPN⚡
 #profile-update-interval: 2
-trojan://humanity@www.host-tracker.com:443?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#🇨🇦42475 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@chat.openai.com:443?sni=www.calmlunch.com&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#🇨🇦42485 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@www.speedtest.net:443?sni=www.creationlong.org&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#🇨🇦42492 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@104.18.139.67:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#kurdconfig
-trojan://humanity@104.19.229.21:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#🇨🇦42468 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@104.17.72.206:443?sni=www.calmloud.com&type=ws&path=/assignment&fp=chrome#kurdconfig
 trojan://humanity@104.20.6.134:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#kurdconfig
-trojan://mitivpn@188.114.97.6:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=1&host=mitivpn.ws-ws-ws.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=mitivpn.ws-ws-ws.workers.dev#TEL;Father_vpn
-trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=1&host=www.linkman1.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.linkman1.ir#TEL%3BFather_vpn
-trojan://humanity@104.19.229.21:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#kurdconfig
-trojan://humanity@chatgpt.com:443?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#🇨🇦42473 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@www.calmloud.com:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#kurdconfig
-trojan://humanity@www.speedtest.net:443?sni=www.creationlong.org&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#kurdconfig
-trojan://mitivpn@188.114.97.6:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&host=cdn.linkman1.ir&fp=chrome&type=ws&sni=cdn.linkman1.ir#llFreak
-trojan://mitivpn@188.114.97.6:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=1&host=www.linkman1.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.linkman1.ir#TEL;Father_vpn
-trojan://GdL9nNA8km@ssss2.avaaal.ir:443?path=/720f09dba195249b423f771661162528/workers/services/view/Avaal/production/settings&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ssss2.avaaal.ir#V2rayng_Fast
+trojan://humanity@188.114.96.4:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#kurdconfig
+trojan://humanity@www.ignitelimit.com:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#kurdconfig
+trojan://humanity@104.17.121.71:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#𝗗𝗔𝗟𝗧𝗢𝗡 𝗣𝗜𝗡𝗚
+trojan://humanity@104.18.139.67:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#kurdconfig
 trojan://humanity@188.114.99.0:443?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#🇺🇸42521 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@45.130.125.76:443?type=ws&security=tls&host=www.calmlunch.com&path=/assignment&fp=chrome&sni=www.calmlunch.com&alpn=http/1.1#kurdconfig
-trojan://humanity@srv1.khatibirepair.ir:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#🇸🇨42481 | ⚡️Telegram = t.me/SOSkeyNET
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=cyylr.eu.cc#Free%2052%20%40Outline_Vpn
-trojan://humanity@104.17.131.88:443?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#kurdconfig
+trojan://humanity@8.6.112.0:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#🌍42513 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@chat.openai.com:443?sni=www.calmlunch.com&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#🇨🇦42485 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@www.calmloud.com:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#kurdconfig
+trojan://humanity@www.ignitelimit.com:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#🇨🇦42489 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.2:443?path=/?proxyip=ip.111000.de5.net:443&security=tls&alpn=http/1.1&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#TEL;Father_vpn¹
+trojan://humanity@104.17.150.76:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#kurdconfig
+trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&host=www.multiplydose.com&path=/assignment#🇳🇱 t.me/Natrixo BB
+trojan://humanity@chatgpt.com:443?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#🇨🇦42473 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@sourceforge.net:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#🇨🇦42480 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@www.host-tracker.com:443?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#🇨🇦42475 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@www.speedtest.net:443?sni=www.creationlong.org&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#kurdconfig
+trojan://Mitivpn@45.130.125.76:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#TEL;Father_vpn³
+trojan://humanity@104.17.150.76:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#🇨🇦42466 | ⚡️Telegram = t.me/SOSkeyNET
