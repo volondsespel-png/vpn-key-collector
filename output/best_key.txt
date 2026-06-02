@@ -1,1 +1,1 @@
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@fastly.com:80?mode=auto&path=%2Flogin&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shangulin.global.ssl.fastly.net&type=xhttp#%3E%3E%40v2rayngvpn%3A%3AFR
+vless://e79c9c33-5113-472c-8bb9-9fce3f8c5f54@199.232.78.160:443?security=tls&type=xhttp&headerType=&path=/&host=de-fra-1.global.ssl.fastly.net&mode=auto&sni=speedtest.net&fp=chrome&alpn=h3,h2,http/1.1&allowInsecure=1#🇺🇸44654 | ⚡️Telegram = t.me/SOSkeyNET
