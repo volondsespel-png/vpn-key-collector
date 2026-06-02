@@ -1,1 +1,1 @@
-vless://InternetAzadRobot-AliKiller@fastly.com:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot19to502.global.ssl.fastly.net&type=xhttp#%3E%3E%40configV2rayNG%3A%3ADE
+vless://ddcedd9d-2af2-3967-14bf-120a2583279e@python.org:80?security=none&type=xhttp&path=/&host=konjedtothemoon.com#🇨🇦43616 | ⚡️Telegram = t.me/SOSkeyNET
