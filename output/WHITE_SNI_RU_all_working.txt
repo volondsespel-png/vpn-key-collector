@@ -1,3 +1,4 @@
 #profile-title: Ultav-White-VPN⚡
 #profile-update-interval: 2
-vless://af555232-0c87-487b-bcb0-87a378a1a371@185.33.87.62:443?type=xhttp&security=reality&path=/dF6yXt9bRj3Lh2qVp7Nw&sni=www.kinopoisk.ru&fp=chrome&pbk=CJ1B3eJWwwIUmz2BGFis0tNpas8fnwXTeri-dkhCclo&sid=aabbccdd#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%20www.kinopoisk.ru
+vless://af555232-0c87-487b-bcb0-87a378a1a371@185.33.87.62:443?type=xhttp&security=reality&path=%2FdF6yXt9bRj3Lh2qVp7Nw&sni=www.kinopoisk.ru&fp=chrome&pbk=CJ1B3eJWwwIUmz2BGFis0tNpas8fnwXTeri-dkhCclo&sid=aabbccdd#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%20www.kinopoisk.ru
+vless://07ab8a15-a4a5-4a03-92b4-4e6a2e9aa5e7@poland.boot-lee.ru:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=RlAi5R84YF3U7llMLLoEui7R7nXhNWYWWy8Zukoo0m8&sid=019ae4dcc8f3aae7&sni=api-maps.yandex.ru&fp=qq&spx=#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20api-maps.yandex.ru
