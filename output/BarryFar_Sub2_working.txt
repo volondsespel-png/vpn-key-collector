@@ -1,22 +1,22 @@
 #profile-title: Ultav-White-VPN⚡
 #profile-update-interval: 2
-trojan://humanity@srv1.khatibirepair.ir:443?type=ws&security=tls&path=/assignment&sni=www.calmlunch.com&fp=chrome&allowInsecure=0#13https://t.me/ConfigX2ray
-vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@216.24.57.1:443?encryption=none&type=ws&security=tls&path=/id-pusat&sni=support.zoom.us.cyylr.eu.cc&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#2https://t.me/ConfigX2ray
-vless://29588485-bbe7-463d-ab7e-43164a3f82c1@104.17.121.71:2095?path=/?ed=2048&security=&encryption=none&host=mOoDY-fInDINGK1GIJxmXLS.SPortLanD.ComPAny.&type=ws#🇨🇦48173 | ⚡️Telegram = t.me/SOSkeyNET
-vless://0a4eabad-a6b8-4f4a-b610-4540b9c8f49a@188.114.97.6:443?path=/sg-orcl&security=tls&encryption=none&insecure=0&host=ava.game.naver.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ava.game.naver.com.cyylr.eu.cc#https://t.me/VIPV2rayNGNP
-vless://12d8b109-394d-4d0c-a208-2b9a41f09f36@188.114.97.6:443?path=/my-wbv&security=tls&encryption=none&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc#TEL:Father_vpn
-trojan://mitivpn@104.17.121.71:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=www.app-cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#TEL;Father_vpn⁴
-vless://27302727-9dfa-4975-990e-88c7a63747cd@188.114.97.6:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=tc.amoovictor.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=tc.amoovictor.cc.cd#TEL;Father_vpn
-trojan://humanity@141.193.213.21:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&allowInsecure=0#9https://t.me/ConfigX2ray
-trojan://humanity@45.130.125.69:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&allowInsecure=1#11https://t.me/ConfigX2ray
-trojan://humanity@45.130.125.96:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#𝐃𝐀𝐋𝐓𝐎𝐍
-trojan://humanity@www.ignitelimit.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Config_magazine-51
-vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?path=/id-tksi&security=tls&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#TEL:Father_vpn
-vless://27302727-9dfa-4975-990e-88c7a63747cd@50.62.198.124:443?path=/&security=tls&encryption=none&insecure=0&host=ws-x1.pages.dev&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=ws-x1.pages.dev#🇺🇸48197 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@141.193.213.10:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#𝐃𝐀𝐋𝐓𝐎𝐍
-vless://1a1e38b5-752d-4c65-8dae-a28e5a106d7a@104.17.121.71:443?mode=auto&path=/Telegram-Zedmodeon&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=manok.tll-far.ir#https://t.me/v2raynplus
-vless://2e9fb996-a83a-425a-9451-f934b25a6137@clpol.portalcode.ir:2087?path=/&security=tls&encryption=none&insecure=0&host=0078021172ba0fd1.rainzone.ir&type=ws&allowInsecure=0&sni=0078021172ba0fd1.rainzone.ir#filembad-93
-trojan://humanity@141.101.90.101:443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇩🇪48210 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://mitivpn@208.103.161.33:443?type=ws&security=tls&path=/&host=ir-sub.ir&sni=ir-sub.ir&fp=chrome&allowInsecure=1#🇺🇸48187 | ⚡️Telegram = t.me/SOSkeyNET
-vless://0a4eabad-a6b8-4f4a-b610-4540b9c8f49a@188.114.97.6:443?path=/sg-orcl&security=tls&encryption=none&insecure=0&host=ava.game.naver.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ava.game.naver.com.cyylr.eu.cc#T.me/CONFiGiR98
+trojan://humanity@66.81.247.155:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&allowInsecure=0#🇺🇸48446 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@www.calmloud.com:443?type=ws&security=tls&path=/assignment&sni=www.calmloud.com&alpn=http/1.1&allowInsecure=1#16https://t.me/ConfigX2ray
+trojan://humanity@216.24.57.1:443?type=ws&security=tls&path=/assignment&sni=www.creationlong.org&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#3https://t.me/ConfigX2ray
+vless://12a639c5-614e-473a-968f-7ed0b3ca78ab@de1.hknet.pro:2053?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=de1.hknet.pro&type=ws&allowInsecure=0&sni=de1.hknet.pro#🇨🇦48294 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@sourceforge.net:443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#prs_bad بیاید اینجا
 vless://1a1e38b5-752d-4c65-8dae-a28e5a106d7a@104.17.121.71:443?mode=auto&path=/Telegram-Zedmodeon&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=manok.tll-far.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=manok.tll-far.ir#TEL;Father_vpn
+vless://27302727-9dfa-4975-990e-88c7a63747cd@188.114.97.6:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=tc.amoovictor.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=tc.amoovictor.cc.cd#TEL;Father_vpn
+vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@216.24.57.1:443?encryption=none&type=ws&security=tls&path=/id-pusat&sni=support.zoom.us.cyylr.eu.cc&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#2https://t.me/ConfigX2ray
+vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?encryption=none&type=ws&security=tls&path=/in-do&host=investors.spotify.com.cyylr.eu.cc&sni=investors.spotify.com.cyylr.eu.cc&allowInsecure=0#11https://t.me/ConfigX2ray
+trojan://humanity@45.130.125.0:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&allowInsecure=1#7https://t.me/ConfigX2ray
+trojan://mitivpn@104.17.121.71:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=www.app-cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#TEL;Father_vpn⁹
+trojan://humanity@srv1.khatibirepair.ir:443?type=ws&security=tls&path=/assignment&sni=www.calmlunch.com&fp=chrome&allowInsecure=0#13https://t.me/ConfigX2ray
+vless://12d8b109-394d-4d0c-a208-2b9a41f09f36@188.114.97.6:443?path=/my-wbv&security=tls&encryption=none&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc#TEL:Father_vpn
+vless://195d2926-d1f4-4b92-adb1-aec4a464a235@188.114.99.0:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=Nuremberg2.Extap.Org&path=/pV67LRFs428xHke56mDQ&sni=200gb-1072435.Extap.org&fp=chrome&alpn=http/1.1#🇩🇪 t.me/Natrixo AA
+trojan://humanity@srv1.khatibirepair.ir:443?type=ws&security=tls&path=/assignment&sni=www.calmlunch.com&fp=chrome&allowInsecure=0#kurdconfig
+vless://195d2926-d1f4-4b92-adb1-aec4a464a235@188.114.99.0:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=Nuremberg2.Extap.Org&path=/pV67LRFs428xHke56mDQ&sni=200gb-1072435.Extap.org&fp=chrome&alpn=http/1.1#🇺🇸48444 | ⚡️Telegram = t.me/SOSkeyNET
+vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?path=/id-tksi&security=tls&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#TEL:Father_vpn
+trojan://mitivpn@188.114.97.6:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=1&host=404.mitii33.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=404.mitii33.workers.dev#TEL;Father_vpn
+trojan://mitivpn@45.130.125.76:443?path=/?ed&security=tls&alpn=http/1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#powerro
+trojan://humanity@45.130.125.76:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#V2RFA

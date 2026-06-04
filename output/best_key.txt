@@ -1,1 +1,1 @@
-vless://da48859d-edf9-4a8c-a026-80910591f284@fastly.com:80?mode=auto&path=/Tignal&security=none&encryption=none&host=tignaltofansv8.global.ssl.fastly.net&type=xhttp#v2rayng_vpn403
+vless://TIGNAL-CRYPTO@151.101.129.57:80?type=xhttp&security=none&path=%2F&host=InternetAzadRobot07gt745.global.ssl.fastly.net&mode=auto#%3E%3E%40ultrasurf_12%3A%3AFR
