@@ -1,1 +1,1 @@
-vless://qeshmserver@151.101.3.8:80?type=xhttp&amp%3Bmode=auto&amp%3Bhost=qeshmserverfree.global.ssl.fastly.net&amp%3Bsecurity=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40qeshmserver%20%231
+vless://36492692-4bc2-46a4-95c4-7f30f50c84e1@20.85.77.48:443?path=/live-chat&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=organic-spoon-q745vpxqj4xjf665-443.app.github.dev#🇺🇸47293 | ⚡️Telegram = t.me/SOSkeyNET
