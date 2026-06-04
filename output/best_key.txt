@@ -1,1 +1,1 @@
-vless://ce59c428-c8aa-4e50-8c52-25e6c877736b@speedtest.net:443?encryption=none&security=tls&type=ws&headerType=none&path=/25425/sha&host=faster.rainzone.ir#🇨🇦47414 | ⚡️Telegram = t.me/SOSkeyNET
+vless://da48859d-edf9-4a8c-a026-80910591f284@fastly.com:80?mode=auto&path=/Tignal&security=none&encryption=none&host=tignaltofansv8.global.ssl.fastly.net&type=xhttp#v2rayng_vpn403
