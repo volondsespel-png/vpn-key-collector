@@ -1,22 +1,22 @@
 #profile-title: Ultav-White-VPN⚡
 #profile-update-interval: 2
 trojan://ertpzfsl7w4kqvk4@151.101.108.223:443?type=ws&security=tls&path=/TELEGRAM_NUFiLTER&host=nleiyajji.global.ssl.fastly.net&sni=default.ssl.fastly.net&allowInsecure=1#http://t.me/v2ray_configs_pools
-trojan://humanity@srv1.khatibirepair.ir:443?type=ws&security=tls&path=/assignment&sni=www.calmlunch.com&fp=chrome&allowInsecure=0#13https://t.me/ConfigX2ray
-trojan://humanity@www.calmloud.com:443?type=ws&security=tls&path=/assignment&sni=www.calmloud.com&alpn=http/1.1&allowInsecure=1#16https://t.me/ConfigX2ray
-trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#13https://t.me/fastkanfig
-trojan://humanity@www.calmloud.com:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&type=ws&allowInsecure=1&sni=www.calmloud.com#16https://t.me/fastkanfig
-trojan://humanity@104.16.174.44:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#𝐃𝐀𝐋𝐓𝐎𝐍
-trojan://humanity@188.114.97.6:443?type=ws&security=tls&path=/assignment&sni=www.creationlong.org&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#4https://t.me/ConfigX2ray
-trojan://Config0plus@45.130.125.160:443?type=ws&security=tls&path=/id-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc&sni=api24-normal.tiktokv.com.cyylr.eu.cc&allowInsecure=0#3https://t.me/ConfigX2ray
-trojan://Mitivpn@104.17.121.71:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#TEL;Father_vpn⁷
-trojan://cf3d48cf-750c-4f18-89a7-f81d2e153fbe@45.130.125.158:443?path=/in-do&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=blog.webex.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=blog.webex.com.cyylr.eu.cc#𝐃𝐀𝐋𝐓𝐎𝐍
-trojan://humanity@104.18.152.233:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&allowInsecure=0#14https://t.me/ConfigX2ray
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#TEL;Father_vpn
-trojan://Mitivpn@45.130.125.76:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#TEL;Father_vpn³
-trojan://humanity@104.16.174.44:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#𝐃𝐀𝐋𝐓𝐎𝐍 𝐏𝐈𝐍𝐆
 trojan://humanity@104.18.152.233:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#14https://t.me/fastkanfig
-trojan://humanity@172.64.147.15:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇨🇦52433 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 t.me/Natrixo AA
+trojan://humanity@188.114.97.6:443?type=ws&security=tls&path=/assignment&sni=www.creationlong.org&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#2https://t.me/ConfigX2ray
+trojan://humanity@www.calmloud.com:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&type=ws&allowInsecure=1&sni=www.calmloud.com#16https://t.me/fastkanfig
+trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=https://chatgpt.com&sni=sadszdx.global.ssl.fastly.net.mitivpn.store&alpn=http/1.1&fp=chrome&allowInsecure=0#24https://t.me/ConfigX2ray
+trojan://humanity@185.18.250.252:443?type=ws&security=tls&path=/assignment&sni=www.gossipglove.com&fp=chrome&allowInsecure=1#15https://t.me/ConfigX2ray
+trojan://humanity@srv1.khatibirepair.ir:443?type=ws&security=tls&path=/assignment&sni=www.calmlunch.com&fp=chrome&allowInsecure=0#13https://t.me/ConfigX2ray
+trojan://humanity@185.18.250.252:443?type=ws&security=tls&path=/assignment&sni=www.multiplydose.com&allowInsecure=0#8https://t.me/ConfigX2ray
+trojan://humanity@188.114.97.6:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&allowInsecure=0#%vmessorg
+trojan://humanity@216.24.57.1:443?type=ws&security=tls&path=/assignment&sni=www.creationlong.org&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#5https://t.me/ConfigX2ray
+trojan://mitivpn@104.17.121.71:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=www.app-cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#TEL;Father_vpn⁹
 trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=https://chatgpt.com&sni=sadszdx.global.ssl.fastly.net.mitivpn.store&alpn=http/1.1&fp=chrome&allowInsecure=0#http://t.me/v2ray_configs_pools
-trojan://Config0plus@45.130.125.160:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#3https://t.me/fastkanfig
-trojan://humanity@104.18.139.67:443?path=/assignment&security=tls&insecure=1&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇨🇦52428 | ⚡️Telegram = t.me/SOSkeyNET
+vless://0057983b-1342-40ce-a570-ad08046977e5@static.iirose.cn:443?path=/15284/coffee&security=tls&encryption=none&host=xh.mmadcoffee.info&fp=chrome&type=ws&sni=sni.mmadcoffee.info#🚀 - 15
+trojan://humanity@104.16.174.44:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#𝐃𝐀𝐋𝐓𝐎𝐍 𝐏𝐈𝐍𝐆
+trojan://humanity@188.114.97.6:443?type=ws&security=tls&path=/assignment&sni=www.creationlong.org&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#4https://t.me/ConfigX2ray
+trojan://humanity@216.24.57.1:443?type=ws&security=tls&path=/assignment&sni=www.gossipglove.com&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#4https://t.me/ConfigX2ray
+trojan://mitivpn@188.114.97.6:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=1&host=404.mitii33.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=404.mitii33.workers.dev#TEL;Father_vpn
+trojan://mitivpn@188.114.97.6:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=1&host=cdn.linkman1.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.linkman1.ir#TEL;Father_vpn
+trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#13https://t.me/fastkanfig
+trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#15https://t.me/fastkanfig
