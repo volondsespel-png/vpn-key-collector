@@ -1,1 +1,1 @@
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@fastly.com:80?mode=auto&path=%2Flogin&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shangulin.global.ssl.fastly.net&type=xhttp#%3E%3E%40v2rayngvpn%3A%3AFR
+vless://da48859d-edf9-4a8c-a026-80910591f284@nytimes.com:80?encryption=none&type=xhttp&path=/Tignal&host=tignaltofansv8.global.ssl.fastly.net&mode=auto#18https://t.me/Pirimod
