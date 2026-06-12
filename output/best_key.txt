@@ -1,1 +1,1 @@
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@fastly.com:80?mode=auto&path=/login&security=none&encryption=none&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&host=shangulin.global.ssl.fastly.net&type=xhttp#برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩
