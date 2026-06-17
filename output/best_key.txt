@@ -1,1 +1,1 @@
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?security=none&type=ws&headerType=&path=/&host=max-gb1.global.ssl.fastly.net#🇩🇪 Germany [fast🟢2]
+vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=eunetherla.appleseraj.ir&sni=eunetherla.appleseraj.ir&fp=chrome#🇳🇱| 𝐍𝐞𝐭𝐡𝐞𝐫𝐥𝐚𝐧𝐝𝐬
