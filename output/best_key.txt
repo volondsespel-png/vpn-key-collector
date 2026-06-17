@@ -1,1 +1,1 @@
-vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=eunetherla.appleseraj.ir&sni=eunetherla.appleseraj.ir&fp=chrome#🇳🇱| 𝐍𝐞𝐭𝐡𝐞𝐫𝐥𝐚𝐧𝐝𝐬
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@speedtest.net:80?mode=auto&path=%2FTignaliSWithYou&security=&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=tignaltofan.global.ssl.fastly.net&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
