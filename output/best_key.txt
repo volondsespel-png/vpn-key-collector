@@ -1,1 +1,1 @@
-trojan://MiTiVPN@151.101.1.194:443?type=ws&security=tls&path=/ed=mitivpn&sni=mitivpn-s2.global.ssl.fastly.net&sni=global.fastly.com&alpn=http/1.1&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
+vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
