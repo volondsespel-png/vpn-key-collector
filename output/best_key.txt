@@ -1,1 +1,1 @@
-trojan://MiTiVPN@151.101.110.219:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=global.fastly.com#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
+vless://382874cf-38f0-48a2-a1ca-592710b006fc@fast.cd-tur4.ir:443?encryption=none&type=ws&security=tls&path=%2F&host=bazaryabab.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#🆔configfa%20🔒%20VL-WS-N/A%20❔%20XX%20374ms
