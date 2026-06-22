@@ -1,1 +1,1 @@
-vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@spd-mynames.global.ssl.fastly.net:80?mode=auto&amp%3Bpath=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=Spd-mynames.global.ssl.fastly.net&amp%3Btype=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40kafing_2%20%231
+vless://25102a1a-e0ea-4a0d-a40d-c68f74d2fe9f@speedtest.net:80?path=/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed=2048&security=&encryption=none&host=barkatc2.ir&type=ws#Proxy_Se7en
