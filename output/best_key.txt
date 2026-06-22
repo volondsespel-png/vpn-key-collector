@@ -1,1 +1,1 @@
-vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@local.cloud-play.ir:80?encryption=none&extra={"xPaddingBytes":"100-1000"}&host=xenoengineer.com&mode=auto&path=/&security=none&type=xhttp&x_padding_bytes=100-1000#kurdconfig
+vless://cb7b5122-7030-4d3d-9590-da00fafe1c05@fast.cd-tur4.ir:443?path=/&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Proxy_Se7en
