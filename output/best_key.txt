@@ -1,1 +1,1 @@
-vless://25102a1a-e0ea-4a0d-a40d-c68f74d2fe9f@speedtest.net:80?path=/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed=2048&security=&encryption=none&host=barkatc2.ir&type=ws#Proxy_Se7en
+vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@local.cloud-play.ir:80?encryption=none&extra={"xPaddingBytes":"100-1000"}&host=xenoengineer.com&mode=auto&path=/&security=none&type=xhttp&x_padding_bytes=100-1000#kurdconfig
