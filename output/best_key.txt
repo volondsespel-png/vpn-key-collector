@@ -1,1 +1,1 @@
-vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@spd-mynames.global.ssl.fastly.net:80?mode=auto&amp%3Bpath=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=Spd-mynames.global.ssl.fastly.net&amp%3Btype=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40kafing_2%20%231
+vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@local.cloud-play.ir:80?encryption=none&extra={"xPaddingBytes":"100-1000"}&host=xenoengineer.com&mode=auto&path=/&security=none&type=xhttp&x_padding_bytes=100-1000#kurdconfig
