@@ -1,1 +1,1 @@
-vless://InternetAzadRobot@fastly.com:80?encryption=none&security=none&type=xhttp&host=sv6tignal.global.ssl.fastly.net&path=%2Ftofan&mode=auto#🆔surfboardv2ray%20🔓%20VL-XHTTP-N/A%20❔%20XX%20227ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=max-gb1.global.ssl.fastly.net&amp%3Btype=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40free1_vpn%20%231
