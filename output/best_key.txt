@@ -1,1 +1,1 @@
-vless://7f12b037-1da1-4128-b8e8-bf761bcc8980@euro.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&mode=auto&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Sulphur%20Springs%20%7C%20%5BBL%5D
+vless://3509334e-bda5-4c03-91b3-b0122ae00291@anchor.fm:80?security=none&type=ws&headerType=&path=%2Fgraphql&host=amuqatel.global.ssl.fastly.net#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
