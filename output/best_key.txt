@@ -1,1 +1,1 @@
-vless://3509334e-bda5-4c03-91b3-b0122ae00291@anchor.fm:80?security=none&type=ws&headerType=&path=%2Fgraphql&host=amuqatel.global.ssl.fastly.net#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
+trojan://MITIVPN@151.101.1.194:80?path=/ed&security=none&host=mitivpn--3.global.ssl.fastly.net&type=ws#همه اپراتور سرعتی
