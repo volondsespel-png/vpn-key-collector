@@ -1,1 +1,1 @@
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.epicgames.com:2095?encryption=none&type=ws&path=/&host=cnmfangbinxing.cnmfangbinxing-q.workers.dev&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
+trojan://Mitivpn@iranpoems.ir:443?path=/de=mitivpn&security=tls&alpn=h2&sni=cdn.gamingdll.ir&fp=firefox&type=ws&sni=cdn.gamingdll.ir#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
