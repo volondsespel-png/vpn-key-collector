@@ -1,1 +1,1 @@
-trojan://Mitivpn@iranpoems.ir:443?security=tls&sni=www.gamingdll.ir&insecure=0&allowInsecure=0&type=ws&host=www.gamingdll.ir&path=/usa=mitivpn#EPODONIOS
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?encryption=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/&security=none#🇩🇪 Germany [fast🟢4]
