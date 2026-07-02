@@ -1,1 +1,1 @@
-trojan://MITIVPN@151.101.56.6:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#EPODONIOS
+vless://a4609f6a-5a02-44b1-9d35-303608665ee4@SPEEDtest.Net:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&host=hormiz5.global.ssl.fastly.net&type=xhttp#🇨🇦94881 | ⚡️Telegram = t.me%2NetFlowTools
