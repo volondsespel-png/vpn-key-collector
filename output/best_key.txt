@@ -1,1 +1,1 @@
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#EPODONIOS
+trojan://MiTiVPN@151.101.193.242:443?path=/usa=mitivpn&security=tls&alpn=http/1.1&host=f6r.ir&fp=chrome&type=ws&sni=f6r.ir#EPODONIOS
