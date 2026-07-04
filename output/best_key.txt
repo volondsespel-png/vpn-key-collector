@@ -1,1 +1,1 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=sca19.afterdomain.shop&fp=chrome&alpn=h2#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://MiTiVPN@167.82.101.252:443?path=/MiTiVPN=Se&security=tls&alpn=http/1.1&insecure=1&host=miticonfig.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#EPODONIOS
