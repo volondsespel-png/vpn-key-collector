@@ -1,1 +1,1 @@
-vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=sca19.afterdomain.shop&fp=chrome&alpn=h2#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
