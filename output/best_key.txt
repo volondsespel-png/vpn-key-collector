@@ -1,1 +1,1 @@
-vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.1.51:443?security=tls&sni=relay-6bcjt33c.edgecompute.app&type=xhttp&host=relay-6bcjt33c.edgecompute.app&path=%2Fdana1365&fp=chrome&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@betty.ns.cloudflare.com:443?encryption=none&type=ws&security=tls&path=/rsedgws&host=shegeftihaaa.net&sni=shegeftihaaa.net&insecure=0&allowInsecure=0#EPODONIOS
