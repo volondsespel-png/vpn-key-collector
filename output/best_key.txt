@@ -1,1 +1,1 @@
-trojan://MITIVPN@151.101.110.219:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#EPODONIOS
+vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.1.51:443?security=tls&sni=relay-6bcjt33c.edgecompute.app&type=xhttp&host=relay-6bcjt33c.edgecompute.app&path=%2Fdana1365&fp=chrome&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
