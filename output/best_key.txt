@@ -1,1 +1,1 @@
-vless://4e81922a-1c2e-41ee-bb4c-9095a0a363fe@www.gov.ua:8880?path=/pyip=ProxyIP.SG.CMLiussss.net&security=&encryption=none&host=gentle-cell-501a.273-d6b.workers.dev&type=ws#🚀 t.me/iProxyChannel 14
+vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.129.51:443?encryption=none&security=tls&sni=relay-6bcjt33c.edgecompute.app&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=relay-6bcjt33c.edgecompute.app&path=/dana1365#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
