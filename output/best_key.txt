@@ -1,1 +1,1 @@
-vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.1.51:443?encryption=none&security=tls&sni=relay-6bcjt33c.edgecompute.app&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=relay-6bcjt33c.edgecompute.app&path=/dana1365#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
+trojan://MiTiVPN@151.101.1.242:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=www.f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.f6r.ir#EPODONIOS
