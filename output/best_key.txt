@@ -1,1 +1,1 @@
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#EPODONIOS
+trojan://Mitivpn@iranpoems.ir:443?path=/de=mitivpn&security=tls&alpn=h2&insecure=0&host=cdn.gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.gamingdll.ir#EPODONIOS
