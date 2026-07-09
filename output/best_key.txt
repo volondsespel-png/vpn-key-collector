@@ -1,1 +1,1 @@
-vless://d1a63ff3-3f64-42f9-9f6d-28c1220e43a1@SPEEDtest.Net:80?mode=auto&path=/&security=&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&host=farangis.global.ssl.fastly.neT.&type=xhttp#EPODONIOS
+vless://1461513a-bfea-449f-b460-8fd2149f879b@img.ipcheak.online:443?type=xhttp&security=tls#EPODONIOS
