@@ -1,1 +1,1 @@
-vless://22567788-f6c9-8a1a-237f-9af0cbf7c5af@151.101.56.7:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=mitivpn-vipsub-de.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://d1a63ff3-3f64-42f9-9f6d-28c1220e43a1@SPEEDtest.Net:80?mode=auto&path=/&security=&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&host=farangis.global.ssl.fastly.neT.&type=xhttp#EPODONIOS
