@@ -1,1 +1,1 @@
-vless://3f7aeb33-4501-48f8-8946-3ee9b88c3f69@198.169.2.65:443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=idk.subgift.xyz&path=/subgift&mode=auto&extra={"xPaddingBytes":"100-1000"}#EPODONIOS
+vless://54f6511e-5ea2-46b8-8475-7adc729ece51@webmail.azinsaraco.ir:80?path=/ZEUS_PANEL_BOT&security=none&encryption=none&host=zeus-panel-cxyca3.zeus-butoun.workers.dev&fp=chrome&type=ws&sni=zeus-panel-cxyca3.zeus-butoun#EPODONIOS
