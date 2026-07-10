@@ -1,1 +1,1 @@
-vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?encryption=none&security=none&type=ws&host=Fastapi.Org&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
