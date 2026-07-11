@@ -1,1 +1,1 @@
-vless://6e76eb41-46c0-438a-8e23-3c3abc7bfd77@162.159.17.145:2087?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=ez-7e157e.alexianoo.workers.dev&path=%2FeyJqdW5rIjoidFRZQUtRSm9iSXdDY1MiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&sni=eZ-7e157E.AlEXIANOo.WorKeRs.dEv&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
