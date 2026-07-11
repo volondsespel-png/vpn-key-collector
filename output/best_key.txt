@@ -1,1 +1,1 @@
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?type=ws&host=Fastapi.Org&path=/?ed=1024#%3E%3E%40v2nodes%3A%3AXX
+vless://12f1bad8-3cc4-49bb-9dd9-432ebcbb46a8@151.101.0.155:80?security=none&encryption=none&headerType=none&type=tcp#v2ray_configs
