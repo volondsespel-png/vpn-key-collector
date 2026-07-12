@@ -1,1 +1,1 @@
-vless://62ade538-b040-42b2-97d3-45b73f280478@ez-540d96.ezaccess1c841bb.workers.dev:80?path=/ZEUS_PANEL_BOT&security=&encryption=none&host=ez-540d96.ezaccess1c841bb.workers.dev&fp=chrome&type=ws#🇨🇦108883 | ⚡️Telegram = t.me/SOSkeyNET
+vless://7eb38cf9-37ba-42e0-af2f-6d149b7625a9@151.101.0.155:80?security=none&encryption=none&headerType=none&type=tcp#v2ray_configs
