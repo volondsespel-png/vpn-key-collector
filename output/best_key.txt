@@ -1,1 +1,1 @@
-vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@199.232.9.94:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/vip1#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=h2&encryption=no
+vless://9b42c6e6-a327-2bec-93dd-9c57d7577a3e@x4g-production-8da8.up.railway.app:443?path=%2Fws%2F9b42c6e6-a327-2bec-93dd-9c57d7577a3e&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-8da8.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=x4g-production-8da8.up.railway.app#%3E%3E%40configV2rayNG%3A%3ANL
