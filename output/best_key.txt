@@ -1,1 +1,1 @@
-vless://12f1bad8-3cc4-49bb-9dd9-432ebcbb46a8@151.101.0.155:80?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+vless://a757e837-a6b4-4ed1-990e-5ce23250ef98@199.232.78.155:443?encryption=none&security=tls&sni=global.fastly.com&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=tamashasdasaf3800.com&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#Xhttp-14-Vistav2ray-50.00GB📊-1D⏳
