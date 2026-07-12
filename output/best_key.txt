@@ -1,1 +1,1 @@
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#TEL;Father_vpn
+vless://766f6c65-0000-4000-8000-7870726f7379@jolly-grass-9f97.nahantest2w.workers.dev:8080?path=/volexprosy&security=&encryption=none&host=jolly-grass-9f97.nahantest2w.workers.dev&fp=chrome&type=ws&sni=jolly-grass-9f97.nahantest2w.workers.dev#EPODONIOS
