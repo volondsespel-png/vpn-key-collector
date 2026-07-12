@@ -1,1 +1,1 @@
-vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
+vless://2fb948c4-3120-415a-bf4f-be18c74cd466@151.101.117.177:443?alpn=h3&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&fp=chrome&host=ovd13.global.ssl.fastly.net&mode=packet-up&path=/&security=tls&sni=manage.fastly.com&type=xhttp#EPODONIOS
