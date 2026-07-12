@@ -1,1 +1,1 @@
-vless://9b42c6e6-a327-2bec-93dd-9c57d7577a3e@x4g-production-8da8.up.railway.app:443?path=%2Fws%2F9b42c6e6-a327-2bec-93dd-9c57d7577a3e&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-8da8.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=x4g-production-8da8.up.railway.app#%3E%3E%40configV2rayNG%3A%3ANL
+vless://12f1bad8-3cc4-49bb-9dd9-432ebcbb46a8@151.101.0.155:80?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
