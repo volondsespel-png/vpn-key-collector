@@ -1,1 +1,1 @@
-vless://a757e837-a6b4-4ed1-990e-5ce23250ef98@199.232.78.155:443?encryption=none&security=tls&sni=global.fastly.com&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=tamashasdasaf3800.com&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#Xhttp-14-Vistav2ray-50.00GB📊-1D⏳
+vless://62ade538-b040-42b2-97d3-45b73f280478@ez-540d96.ezaccess1c841bb.workers.dev:80?path=/ZEUS_PANEL_BOT&security=&encryption=none&host=ez-540d96.ezaccess1c841bb.workers.dev&fp=chrome&type=ws#🇨🇦108883 | ⚡️Telegram = t.me/SOSkeyNET
