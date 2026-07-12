@@ -1,1 +1,1 @@
-vless://766f6c65-0000-4000-8000-7870726f7379@jolly-grass-9f97.nahantest2w.workers.dev:8080?path=/volexprosy&security=&encryption=none&host=jolly-grass-9f97.nahantest2w.workers.dev&fp=chrome&type=ws&sni=jolly-grass-9f97.nahantest2w.workers.dev#EPODONIOS
+vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@199.232.9.94:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/vip1#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=h2&encryption=no
