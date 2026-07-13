@@ -1,1 +1,1 @@
-vless://17239063-e23e-4e3d-8217-cafa67124003@zeus-panel-j9dmh2.zeus-2zgd21.workers.dev:8080?encryption=none&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://a26bbed7-a286-4840-84bc-dc102c526777@speedtest.net:80?mode=auto&path=/category/music&security=none&encryption=none&host=iran.boltboost.gg&type=xhttp#EPODONIOS
