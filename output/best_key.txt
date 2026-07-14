@@ -1,1 +1,1 @@
-vless://94a1b05b-be5f-45ed-8cc1-37eb25d10341@zeus-panel-tln7ap.kingworkerr.workers.dev:443?path=/&security=tls&encryption=none&insecure=0&host=zeus-panel-tln7ap.kingworkerr.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-tln7ap.kingworkerr.workers.dev#دریافت کانفیگ های رایگان بیشتر 𝙋𝙚𝙚𝙠𝘾𝙤𝙣𝙛𝙞𝙜-443
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#EPODONIOS
