@@ -1,1 +1,1 @@
-vless://358eab4b-7db4-4f93-a7b0-5e6f98b7cf45@speedtest.net:443?path=/TELEGRAM-MARAMBASHI/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=tody.ir.&fp=chrome&type=ws&sni=speedtest.net#🇨🇦111546 | ⚡️Telegram = t.me/SOSkeyNET
+vless://8c48388a-8c01-4b7b-9de6-d9516e05ce26@SPEEDtest.Net:80?security=none&type=xhttp&headerType=&path=/&host=piaz.global.ssl.fastly.net&mode=auto&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}#🇨🇦111653 | ⚡️Telegram = t.me/SOSkeyNET
