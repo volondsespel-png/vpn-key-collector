@@ -1,1 +1,1 @@
-vless://b2d8093b-f8e7-4a59-a582-96e3224728df@www.dgmcd.cn:443?encryption=none&security=tls&sni=sni.irandoc.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=aron.irandoc.info&path=/29099/api1#EPODONIOS
+vless://cbcf2255-6d66-4039-b7d6-c10d6ffc99e7@1.tls.fastly.veraspeed.ir:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3E%40configV2rayNG%3A%3ADE
