@@ -1,1 +1,1 @@
-vless://13ce37df-0738-4130-9b02-a87658921feb@167.82.101.210:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&insecure=1&host=piaz.global.ssl.fastly.neT.&fp=chrome&type=xhttp&allowInsecure=1&sni=global.fastly.coM.#⚪t.me/iProxyChannel 11
+vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@speedtest.net:80?path=/download&security=&encryption=none&host=sabzb2.global.ssl.fastly.net&type=ws#EPODONIOS
