@@ -1,1 +1,1 @@
-vless://fc46b03d-e185-48e7-8c18-dea03b4a0c25@www.ipget.net:8880?type=ws&security=none&encryption=none&fp=chrome&path=/pyip=ProxyIP.SG.CMLiussss.net&host=flat-union-b292.17-4e0.workers.dev#🇨🇦116425 | ⚡️Telegram = t.me/SOSkeyNET
+vless://a757e837-a6b4-4ed1-990e-5ce23250ef98@199.232.250.122:443?encryption=none&security=tls&sni=global.fastly.com&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=tamashasdasaf3800.com&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#Xhttp-14-Vistav2ray-50.00GB📊-1D⏳
