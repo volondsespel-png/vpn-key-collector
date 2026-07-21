@@ -1,1 +1,1 @@
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cloudflare-ip.mofashi.ltd:443?type=ws&security=tls&encryption=none&sni=t1s1.rittbo.kdns.fr&fp=chrome&path=%2F&host=t1s1.rittbo.kdns.fr#%40vpnparsajo```
+vless://1b611f89-c650-492b-89ce-71926f9ff1f8@SPEEDtest.Net:80?security=none&type=ws&headerType=&path=&host=SvnTeam.global.ssl.fastly.neT.#EPODONIOS
