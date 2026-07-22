@@ -1,1 +1,1 @@
-trojan://MITIVPN@151.101.110.219:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#EPODONIOS
+vless://c18fd69e-92ba-446e-981b-213dbb551593@soskeynets-wind-5b29.133-323.workers.dev:8880?encryption=none&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#🇨🇦119187 | ⚡️Telegram = t.me/SOSkeyNET
