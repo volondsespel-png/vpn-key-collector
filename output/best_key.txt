@@ -1,1 +1,1 @@
-vless://6f876b28-1b3e-4088-85c0-d299e56bfccd@172.64.88.168:8880?encryption=none&host=throbbing-haze-fbde.388-6c4.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://3f86ccb0-a5aa-437c-9947-c7d278861edf@ipwhite-cdnfastly2.reallyclody.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=farbnc.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#Join mtmvpn
