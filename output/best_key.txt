@@ -1,1 +1,1 @@
-vless://3f86ccb0-a5aa-437c-9947-c7d278861edf@ipwhite-cdnfastly2.reallyclody.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=farbnc.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#Join mtmvpn
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#EPODONIOS
