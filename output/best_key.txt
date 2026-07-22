@@ -1,1 +1,1 @@
-vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#EPODONIOS
+vless://dbbbfcc1-1092-42e1-9e3c-5f3311cccb3c@xv6qybvq-bpb-4-2-3.sugarbunnyray.workers.dev:2052?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=xv6qybvq-bpb-4-2-3.sugarbunnyray.workers.dev&path=/eyJqdW5rIjoiejgzbGRVSGJ4NG4iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyJ3d3cudmlzYS5jbiIsInlvdXh1YW4uY2YuMDkwMjI3Lnh5eiIsImJlc3RjZi4wMzAxMDEueHl6Il19&security=none&type=ws#🇨🇦118605 | ⚡️Telegram = t.me/SOSkeyNET
