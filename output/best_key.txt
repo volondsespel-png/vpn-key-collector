@@ -1,1 +1,1 @@
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&fp=firefox&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
+vless://82ebd58c-156a-4c2b-9cf9-1762f0a1e04f@change.org:443?security=tls&sni=rAyAn-007.lEiLa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.lEiLa.dPdNs.oRg&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://telegraph.rayan.dpdns.org/translate
