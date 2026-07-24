@@ -1,1 +1,1 @@
-vless://66bcb167-7663-45ca-a3ad-e4ef21f18b6c@speedtest.net:443?path=ws/?ed=2048&security=tls&encryption=none&host=s4jkhvuvjnouuibbctyl.com&type=ws&sni=speedtest.net#EPODONIOS
+vless://d6971cc4-a506-49f6-8ebb-f911317763d8@104.19.141.3:443?path=/36.95.152.58=12137&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
