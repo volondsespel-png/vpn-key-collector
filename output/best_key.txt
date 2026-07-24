@@ -1,1 +1,1 @@
-vless://66bcb167-7663-45ca-a3ad-e4ef21f18b6c@speedtest.net:443?path=ws/?ed=2048&security=tls&encryption=none&host=s4jkhvuvjnouuibbctyl.com&type=ws&sni=speedtest.net#EPODONIOS
+vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
