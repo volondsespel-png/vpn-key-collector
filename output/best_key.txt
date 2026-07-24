@@ -1,1 +1,1 @@
-vless://718ff826-3d64-441c-b1ec-54a1d7394931@global.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#EPODONIOS
+vless://de5dcb9e-6a72-45a2-8d3d-de00e5431426@151.101.193.54:80?security=none&type=ws&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt.#EPODONIOS
