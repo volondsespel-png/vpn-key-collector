@@ -1,1 +1,1 @@
-vless://d6971cc4-a506-49f6-8ebb-f911317763d8@104.19.141.3:443?path=/36.95.152.58=12137&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
+vless://718ff826-3d64-441c-b1ec-54a1d7394931@global.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#EPODONIOS
