@@ -1,1 +1,1 @@
-vless://66bcb167-7663-45ca-a3ad-e4ef21f18b6c@speedtest.net:443?path=ws/?ed=2048&security=tls&encryption=none&host=s4jkhvuvjnouuibbctyl.com&type=ws&sni=speedtest.net#EPODONIOS
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40configV2rayNG%3A%3AFR
