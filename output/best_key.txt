@@ -1,1 +1,1 @@
-trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40configV2rayNG%3A%3AFR
+vless://153c064f-70ca-4fcf-b5bd-64efeccdd894@speedtest.net:443?allowInsecure=false&alpn=h2,http/1.1&fp=chrome&host=i-am-melo.ir&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&security=tls&sni=speedtest.net&type=ws#🇨🇦121348 | ⚡️Telegram = t.me/SOSkeyNET
