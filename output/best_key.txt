@@ -1,1 +1,1 @@
-vless://153c064f-70ca-4fcf-b5bd-64efeccdd894@speedtest.net:443?allowInsecure=false&alpn=h2,http/1.1&fp=chrome&host=i-am-melo.ir&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&security=tls&sni=speedtest.net&type=ws#🇨🇦121348 | ⚡️Telegram = t.me/SOSkeyNET
+vless://4b1d39f2-42d4-4850-8b8a-fd4fa2f1ae55@151.101.193.54:80?security=none&type=ws&headerType=&path=&host=BankMelat.glObal.ssl.faStly.nEt.#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
