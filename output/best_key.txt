@@ -1,1 +1,1 @@
-vless://46445435-11cd-47e8-87dc-1acc159fc360@151.101.193.54:80?security=none&type=ws&path=%2F&host=BankMelat.glObal.ssl.faStly.nEt.&sni=BankMelat.glObal.ssl.faStly.nEt.#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
+vless://4b1d39f2-42d4-4850-8b8a-fd4fa2f1ae55@151.101.56.7:80?security=none&type=ws&headerType=&path=&host=BankMelat.glObal.ssl.faStly.nEt.#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
