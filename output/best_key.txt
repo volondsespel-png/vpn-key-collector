@@ -1,1 +1,1 @@
-vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@speedtest.net:80?path=/download&security=&encryption=none&host=sabzb2.global.ssl.fastly.net&type=ws#EPODONIOS
+vless://f4f0ed6b-3b3f-42ad-ae22-d96204c06378@151.101.2.219:443?security=tls&sni=speedtestcustom.com&type=ws&host=melofin.ir&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&fp=chrome&alpn=h2,http/1.1&allowInsecure=false#🇨🇦122214 | ⚡️Telegram = t.me/SOSkeyNET
