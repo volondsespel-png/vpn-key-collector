@@ -1,1 +1,1 @@
-vless://f4f0ed6b-3b3f-42ad-ae22-d96204c06378@151.101.2.219:443?security=tls&sni=speedtestcustom.com&type=ws&host=melofin.ir&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&fp=chrome&alpn=h2,http/1.1&allowInsecure=false#🇨🇦122214 | ⚡️Telegram = t.me/SOSkeyNET
+vless://b759c022-6536-418f-88a3-57eb9f76cf46@marzban-node-production-43c6.up.railway.app:443?security=tls&type=ws&headerType=&path=/vless&host=marzban-node-production-43c6.up.railway.app&sni=marzban-node-production-43c6.up.railway.app&fp=chrome&alpn=h2#Telegram : PeekConfig🚀
