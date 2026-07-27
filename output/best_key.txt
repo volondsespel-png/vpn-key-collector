@@ -1,1 +1,1 @@
-vless://a26bbed7-a286-4840-84bc-dc102c526777@speedtest.net:80?mode=auto&path=/category/music&security=none&encryption=none&host=iran.boltboost.gg&type=xhttp#EPODONIOS
+vless://28926c34-865c-447e-8d42-a17240af743b@cdn-cloudflare91.korvexe.ir:8880?encryption=none&type=ws&path=/shop&host=cdn-cloudflare91.korvexe.ir#configprxy
