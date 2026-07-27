@@ -1,22 +1,22 @@
 #profile-title: Ultav-White-VPN⚡
 #profile-update-interval: 2
-trojan://Mitivpn@151.101.56.6:443?path=/de=mitivpn&security=tls&alpn=h2&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-trojan://MITIVPN@151.101.56.6:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#EPODONIOS
-trojan://itX52H4tiA@151.101.34.144:443?mode=packet-up&path=/da&security=tls&alpn=h2,http/1.1&insecure=0&host=networkzvx.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#EPODONIOS
+trojan://MiTiVPN@151.101.56.6:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+trojan://MiTiVPN@151.101.56.6:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+trojan://MiTiVPN@151.101.1.194:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=mitivpn-s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#EPODONIOS
+trojan://MiTiVPN@151.101.56.6:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 trojan://MITIVPN@151.101.56.6:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#EPODONIOS
 trojan://MiTiVPN@151.101.110.219:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 trojan://MiTiVPN@151.101.110.219:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#EPODONIOS
 trojan://MITIVPN@151.101.110.219:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#EPODONIOS
+trojan://MiTiVPN@151.101.110.219:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#EPODONIOS
+trojan://itX52H4tiA@151.101.34.144:443?mode=packet-up&path=/da&security=tls&alpn=h2,http/1.1&insecure=0&host=networkzvx.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#EPODONIOS
+trojan://4aFbwy5BHa@151.101.34.144:443?mode=auto&path=/db&security=tls&alpn=h2,http/1.1&insecure=0&host=edgezvx.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=global.fastly.com#EPODONIOS
+trojan://MITIVPN@151.101.110.219:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#EPODONIOS
+trojan://MITIVPN@151.101.56.6:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#EPODONIOS
+trojan://Mitivpn@151.101.56.6:443?path=/de=mitivpn&security=tls&alpn=h2&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 trojan://MITIVPN@151.101.56.6:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#EPODONIOS
 trojan://MiTiVPN@151.101.110.219:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-trojan://MiTiVPN@151.101.110.219:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-trojan://MiTiVPN@151.101.56.6:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-trojan://4aFbwy5BHa@151.101.34.144:443?mode=auto&path=/db&security=tls&alpn=h2,http/1.1&insecure=0&host=edgezvx.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=global.fastly.com#EPODONIOS
-trojan://MiTiVPN@151.101.1.194:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=mitivpn-s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#EPODONIOS
-trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#EPODONIOS
-trojan://MiTiVPN@151.101.56.6:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-trojan://MiTiVPN@151.101.56.6:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-trojan://18126aaff3f6bdc7270728754fc4478b@oxnet-v1.pxxl.run:443?mode=packet-up&path=/xhttp-oxnet/packet-up/PlanAsli2&security=tls&alpn=h2,http/1.1&insecure=0&host=oxnet-v1.pxxl.run&fp=chrome&type=xhttp&allowInsecure=0&sni=oxnet-v1.pxxl.run#EPODONIOS
-trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#EPODONIOS
+trojan://RTp$2utwQ4wVakOd@172.67.205.90:2096?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&host=b22ntzajtafvkew6em2th68a6030-ogu.hirad228.workers.dev&path=/tr/Vk7EG68dZTnpOOEBhonknWpF1V&sni=b22nTZaJtaFvkew6Em2tH68a6030-ogU.hIRAd228.WORkERS.DEv&type=ws#EPODONIOS
 trojan://MITIVPN@151.101.110.219:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#EPODONIOS
-trojan://MITIVPN@151.101.110.219:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#EPODONIOS
+trojan://RTp$2utwQ4wVakOd@b22ntzajtafvkew6em2th68a6030-ogu.hirad228.workers.dev:2087?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&host=b22ntzajtafvkew6em2th68a6030-ogu.hirad228.workers.dev&path=/tr/XXCoJMiYrTEsVHmcPFzYdqnj8j&sni=B22NtZAjTAfVkew6Em2th68A6030-OgU.HIRAd228.woRkers.dEV&type=ws#EPODONIOS
