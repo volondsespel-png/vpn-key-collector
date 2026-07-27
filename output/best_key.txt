@@ -1,1 +1,1 @@
-vless://28926c34-865c-447e-8d42-a17240af743b@cdn-cloudflare91.korvexe.ir:8880?encryption=none&type=ws&path=/shop&host=cdn-cloudflare91.korvexe.ir#configprxy
+vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
