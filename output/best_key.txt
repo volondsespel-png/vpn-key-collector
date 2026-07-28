@@ -1,1 +1,1 @@
-vless://57d68ec3-6cc5-10e9-2bca-5ba3994aa783@76.223.77.48:443?path=/glasspanel/0038ba35_0_1bdabe931208/&security=tls&encryption=none&insecure=0&host=2.r.y.a.j.7.c.z.d.z.8.f.f.r.us.art-us.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=2.r.y.a.j.7.c.z.d.z.8.f.f.r.us.art-us.kdns.fr#🇺🇸 t.me/iProxyChannel
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@millionaire.levikogjgfdd.ir:443?path=/fp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🇺🇸 CDN
