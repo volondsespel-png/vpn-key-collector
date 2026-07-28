@@ -1,1 +1,1 @@
-vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.vector2llqn.info:8443?encryption=none&fp=chrome&host=ad-010.vector2llqn.info&path=%2F&security=tls&sni=ad-010.vector2llqn.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
+vless://57d68ec3-6cc5-10e9-2bca-5ba3994aa783@76.223.77.48:443?path=/glasspanel/0038ba35_0_1bdabe931208/&security=tls&encryption=none&insecure=0&host=2.r.y.a.j.7.c.z.d.z.8.f.f.r.us.art-us.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=2.r.y.a.j.7.c.z.d.z.8.f.f.r.us.art-us.kdns.fr#🇺🇸 t.me/iProxyChannel
