@@ -1,1 +1,1 @@
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%3E%3E%40configV2rayNG%3A%3ANL
+vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.vector2llqn.info:8443?encryption=none&fp=chrome&host=ad-010.vector2llqn.info&path=%2F&security=tls&sni=ad-010.vector2llqn.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
