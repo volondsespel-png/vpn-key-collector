@@ -1,1 +1,1 @@
-vless://31d63c9c-ed69-407d-9428-33b396dbec08@pypi.org:80?path=/?ed=2048&security=none&encryption=none&host=echopress-bot-8.global.ssl.fastly.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://0f385063-d72f-17df-16a5-79cac274f560@69.46.46.253:443?path=/ws/0f385063-d72f-17df-16a5-79cac274f560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-6f16.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-6f16.up.railway.app#EPODONIOS
