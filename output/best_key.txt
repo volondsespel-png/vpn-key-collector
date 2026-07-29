@@ -1,1 +1,1 @@
-vless://622c9af1-87d1-46dc-b358-ae422c0a354a@pypi.org:80?path=/?ed=2048&security=none&encryption=none&host=echopress-bot-8.global.ssl.fastly.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://31d63c9c-ed69-407d-9428-33b396dbec08@pypi.org:80?path=/?ed=2048&security=none&encryption=none&host=echopress-bot-8.global.ssl.fastly.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
