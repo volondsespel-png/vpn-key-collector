@@ -1,1 +1,1 @@
-vless://7812d96c-fbd5-4689-a480-e359dde49b7b@www.speedtest.net:443?encryption=none&security=tls&sni=BPb-F23dDEdd.JCXkvlnDL.WOrkERS.deV&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=bpb-f23ddedd.jcxkvlndl.workers.dev&path=/eyJqdW5rIjoiWWdUTFZiaTRQU3YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560#⚡️ AnsooyeFilter | Cloudflare
+vless://718ff826-3d64-441c-b1ec-54a1d7394931@global.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#EPODONIOS
