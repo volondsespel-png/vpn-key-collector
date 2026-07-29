@@ -1,1 +1,1 @@
-vless://0f385063-d72f-17df-16a5-79cac274f560@69.46.46.253:443?path=/ws/0f385063-d72f-17df-16a5-79cac274f560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-6f16.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-6f16.up.railway.app#EPODONIOS
+vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@199.232.9.94:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/vip1&security=tls&alpn=h2&encryption=none&insecure=0&host=hamshahriesfahan.com&fp=chrome&type=ws&allowInsecure=0&sni=speedtest.net#EPODONIOS
