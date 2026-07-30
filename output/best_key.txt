@@ -1,1 +1,1 @@
-vless://45a390ed-0ddb-4dc3-8b5e-2fee9d044665@167.82.82.84:80?encryption=none&security=none&type=xhttp&host=lowtechdevelopersltd.co.uk&path=%2Fvideo%3Fed%3D1024&mode=auto#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%5BBL%5D
+vless://TELEGRAM-NUFiLTER@speedtest.net:443?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=Bs.net&fp=chrome&type=ws&sni=speedtest.net#EPODONIOS
