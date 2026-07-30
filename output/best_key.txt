@@ -1,1 +1,1 @@
-vless://TELEGRAM-NUFiLTER@speedtest.net:443?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=Bs.net&fp=chrome&type=ws&sni=speedtest.net#EPODONIOS
+vless://c7e9c591-2764-423a-afca-efbd010fd396@72.18.132.149:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
