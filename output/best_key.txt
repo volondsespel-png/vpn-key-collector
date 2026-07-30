@@ -1,1 +1,1 @@
-vless://b6e42688-3076-47aa-9345-6ff10fe1a36b@173.245.49.22:8880?path=/sync&security=none&encryption=none&host=wandering-rice-1ac4.cloudfelar.workers.dev&type=ws#EPODONIOS
+vless://c9380ef8-23f8-422e-81fe-ebbb032202cf@151.101.56.7:80?allowInsecure=0&sni=BankMelat.glObal.ssl.faStly.nEt.&type=ws&host=BankMelat.glObal.ssl.faStly.nEt.&path=/#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
