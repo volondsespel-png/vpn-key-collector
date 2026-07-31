@@ -1,1 +1,1 @@
-vless://TELEGRAM-NUFiLTER@speedtest.net:443?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=Bs.net&fp=chrome&type=ws&sni=speedtest.net#EPODONIOS
+vless://5d3abfa9-bdf5-4334-8383-dcf92df802a5@172.64.80.1:8443?encryption=none&host=ad-018.cloud25075.info&path=%2F&security=tls&sni=ad-018.cloud25075.info&type=ws&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Wattrelos%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
