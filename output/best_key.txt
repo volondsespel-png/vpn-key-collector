@@ -1,1 +1,1 @@
-vless://50414e45-4c5f-5a45-5553-2f7ff296be7b@nasimword.ir:8080?path=/stream/PANEL_ZEUS/2f7ff296be7b?loc=0&security=none&encryption=none&host=ez-de116f.ezaccess1142c2d.workers.dev&fp=chrome&type=ws&sni=ez-de116f.ezaccess1142c2d.workers.dev#EPODONIOS
+trojan://humanity@www.creationlong.org:443?fp=chrome&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
