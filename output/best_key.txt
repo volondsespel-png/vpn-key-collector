@@ -1,1 +1,1 @@
-vless://fb9516c2-35af-22c7-d539-7be58e9d1862@rokervpn-production-46c3.up.railway.app:443?encryption=none&security=tls&type=ws&host=rokervpn-production-46c3.up.railway.app&path=/ws/fb9516c2-35af-22c7-d539-7be58e9d1862&sni=rokervpn-production-46c3.up.railway.app&fp=chrome&alpn=http/1.1#X4G-rokervpn🔥
+vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.16.1:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/Lf40Du14nxmNjCFx?ed=2560#CxrolVPN Free (4)
