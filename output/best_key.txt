@@ -1,1 +1,1 @@
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@141.101.122.223:443?security=tls&sni=mmdv2.pages.dev&type=ws&path=/#EPODONIOS
+vless://fb9516c2-35af-22c7-d539-7be58e9d1862@rokervpn-production-46c3.up.railway.app:443?encryption=none&security=tls&type=ws&host=rokervpn-production-46c3.up.railway.app&path=/ws/fb9516c2-35af-22c7-d539-7be58e9d1862&sni=rokervpn-production-46c3.up.railway.app&fp=chrome&alpn=http/1.1#X4G-rokervpn🔥
