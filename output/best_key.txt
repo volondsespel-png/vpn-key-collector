@@ -1,1 +1,1 @@
-vless://7242eccf-5261-4e31-813e-871bfbde90c2@log.bpminecraft.com:8880?encryption=none&type=ws&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&host=long-flower-ac0d.176-17e.workers.dev#%3E%3E%40ShadowsocksM%3A%3AUS
+vless://b79142ae-60d5-484d-bf61-89b76d35c119@marzban-node-production-4f84.up.railway.app:443?security=tls&type=ws&headerType=&path=/vless&host=marzban-node-production-4f84.up.railway.app&sni=marzban-node-production-4f84.up.railway.app&fp=chrome&alpn=h2#🚀 Telegram: PeekConfig
