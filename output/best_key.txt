@@ -1,1 +1,1 @@
-vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@199.232.78.159:443?security=tls&sni=ssl.fastly.com&type=ws&headerType=none&host=BankMelat.glObal.ssl.faStly.nEt.&path=%2F&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
+vless://89c3b66f-c849-4602-a5a8-84b6f06af478@www.true.th:80?&type=ws&headerType=none&host=d2pwbkmfr5lxa4.cloudfront.net&path=/#EPODONIOS
