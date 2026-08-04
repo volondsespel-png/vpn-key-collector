@@ -1,1 +1,1 @@
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=%2F&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://ff0c1cde-6f94-4bf1-9774-ab25c6b4977d@www.true.th:80?path=/knl8&security=&encryption=none&host=d7iwyzy9wpvuu.cloudfront.net&type=ws#EPODONIOS
