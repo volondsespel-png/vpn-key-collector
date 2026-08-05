@@ -1,1 +1,1 @@
-vless://3e37ef76-835d-4ad2-a1d3-414ef90532bf@199.232.239.244:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd7.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&fp=chrome&alpn=h3#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.44.66:2053?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#🚀t.me/iProxyChannel 13
