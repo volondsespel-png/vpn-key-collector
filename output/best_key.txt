@@ -1,1 +1,1 @@
-vless://29ca503d-e6b8-4509-b666-48133f450857@cmcc.877774.xyz:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#%3E%3E%40FreakConfig%3A%3AUS
+vless://f3a21b24-5963-495a-a82f-1f62cb459335@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
