@@ -1,1 +1,1 @@
-vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@ad-004.zen2bswa.info:8443?encryption=none&fp=chrome&host=ad-004.zen2bswa.info&path=%2F&security=tls&sni=ad-004.zen2bswa.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
+vless://@𝐕𝟐𝐗𝐍𝐄𝐓@speedtest.net:80?mode=auto&path=/&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=imcreeprd3.global.ssl.fastly.net&fp=chrome&type=xhttp#EPODONIOS
