@@ -1,3 +1,3 @@
 #profile-title: Ultav-White-VPN⚡
 #profile-update-interval: 2
-vless://ce2c0785-ccec-43b3-888c-f475b410c386@31.76.31.120:443?encryption=none&security=reality&sni=ya.ru&fp=chrome&echfq=none&pbk=coo1GUSQ_7hoEqw7L2xCDW4EsHMI3RzVEiMCac8kF1o&sid=a1b2c3d4&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5BSNI-RU%5D%20ya.ru
+vless://bee21918-0933-430c-904b-c941b92256ba@201.24.118.145:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B8%F0%9F%87%A8%20%5BSNI-RU%5D%20live.ok.ru
