@@ -1,1 +1,1 @@
-vless://@𝐕𝟐𝐗𝐍𝐄𝐓@speedtest.net:80?mode=auto&path=/&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=imcreeprd3.global.ssl.fastly.net&fp=chrome&type=xhttp#EPODONIOS
+vless://82ebd58c-156a-4c2b-9cf9-1762f0a1e04f@change.org:443?security=tls&sni=rAyAn-007.lEiLa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.lEiLa.dPdNs.oRg&encryption=none#EPODONIOS
