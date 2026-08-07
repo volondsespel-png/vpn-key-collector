@@ -1,1 +1,1 @@
-vless://a26bbed7-a286-4840-84bc-dc102c526777@speedtest.net:80?mode=auto&path=/category/music&security=none&encryption=none&host=iran.boltboost.gg&type=xhttp#EPODONIOS
+vless://@𝐕𝟐𝐗𝐍𝐄𝐓@fastly.com:80?mode=auto&path=/&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=Butimcreepimweirdeo.shop&fp=chrome&type=xhttp#EPODONIOS
