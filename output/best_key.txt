@@ -1,1 +1,1 @@
-vless://a3fe488a-d97f-46c0-a845-8247a19b3e82@SPEEDTEST.NET:80?path=/&security=&encryption=none&host=SvnTeamChannel.global.ssl.fastly.net&type=ws#🇩🇪 DE | Fastly
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.66.47.69:2096?path=/?&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#EPODONIOS
