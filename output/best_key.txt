@@ -1,1 +1,1 @@
-vless://644d823f-3132-434a-8d25-7e9512d7e3a7@SPEEDtest.Net:80?security=none&type=xhttp&headerType=&path=/&host=farangis.global.ssl.fastly.neT.&mode=auto&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}#🟣 HORMOZ 🏞️
+vless://InternetAzadRobot-AliKiller@151.101.129.57:80?mode=auto&path=/&security=none&encryption=none&host=InternetAzadRobot55yy182.global.ssl.fastly.net&type=xhttp#EPODONIOS
