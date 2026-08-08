@@ -1,1 +1,1 @@
-vless://540cb1d1-b0f2-4d41-9bc4-f6f2f3840087@SPEEDTEST.NET:80?encryption=none&security=none&type=ws&headerType=none&path=/&host=SvnTeamChannel.global.ssl.fastly.net#EPODONIOS
+vless://@𝐕𝟐𝐗𝐍𝐄𝐓@fastly.com:80?mode=auto&path=/&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=ggabjigg.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=ggabjigg.global.ssl.fastly.net#EPODONIOS
