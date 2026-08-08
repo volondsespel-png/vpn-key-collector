@@ -1,1 +1,1 @@
-vless://efe18f67-927b-d4b3-9113-079007af6013@199.232.2.79:443?security=tls&type=xhttp&headerType=none&encryption=none&path=&host=bsl.global.ssl.fastly.net&mode=auto&sni=ssl.fastly.com&fp=chrome#🇫🇷 [ HELP ] ⁴
+trojan://humanity@104.19.229.21:443?path=/assignment?L=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#EPODONIOS
