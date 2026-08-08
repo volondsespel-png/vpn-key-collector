@@ -1,1 +1,1 @@
-vless://5990e0a5-fc5f-43c6-8fdc-39612c60a9cd@skk.moe:8880?path=/pyip&security=none&encryption=none&host=jolly-butterfly-24e0.212-cb3.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://5990e0a5-fc5f-43c6-8fdc-39612c60a9cd@skk.moe:8880?path=/pyip&security=none&encryption=none&host=jolly-butterfly-24e0.212-cb3.workers.dev&type=ws#EPODONIOS
