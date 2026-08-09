@@ -1,1 +1,1 @@
-vless://09b2f2b7-c5e5-4c81-b075-1d0c23eecabd@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=SvnTeamChannel.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸138896 | ⚡️Telegram = t.me/SOSkeyNET
+vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
