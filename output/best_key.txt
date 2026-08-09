@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.59.30:8880?encryption=none&host=vms.lifetime58.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://49e76398-5127-4005-90cb-c2a971f745f1@love.ns.cloudflare.com:443?path=/carbon&security=tls&encryption=none&insecure=0&host=oxoel.starleafnet-addd.sbs&fp=chrome&type=ws&allowInsecure=0&sni=oxoel.starleafnet-addd.sbs#EPODONIOS
