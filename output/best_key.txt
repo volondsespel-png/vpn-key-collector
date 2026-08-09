@@ -1,1 +1,1 @@
-vless://57d68ec3-6cc5-10e9-2bca-5ba3994aa783@ctcc.cloudflare.seeck.cn:443?path=/glasspanel/0038ba35_0_1bdabe931208/&security=tls&encryption=none&insecure=0&host=2.r.y.a.j.7.c.z.d.z.8.f.f.r.us.art-us.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=2.r.y.a.j.7.c.z.d.z.8.f.f.r.us.art-us.kdns.fr#EPODONIOS
+vless://@𝐕𝟐𝐗𝐍𝐄𝐓@fastly.com:80?mode=auto&path=/&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=Butimcreepimweirdeo.shop&fp=chrome&type=xhttp#EPODONIOS
