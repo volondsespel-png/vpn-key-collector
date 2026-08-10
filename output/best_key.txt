@@ -1,1 +1,1 @@
-vless://70c16ec7-13f7-473b-b97d-06399f1481e3@www.baipiao.eu.org:8880?encryption=none&host=mute-surf-0003.209.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://7c3e7eb3-289a-4664-b783-e459713aed4f@cdn.devmixa.ir:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=english.havray2025.ir&fp=chrome&type=ws&allowInsecure=0&sni=english.havray2025.ir#MTMVPN 10
