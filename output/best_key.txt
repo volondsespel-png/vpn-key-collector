@@ -1,1 +1,1 @@
-vless://888193f6-6818-42f4-b223-64c9fd323b76@151.101.56.6:443?encryption=mlkem768x25519plus.random.0rtt._NGMclKEeu1LAXSf34rYI2QFSa5GPWgn4IBhz-nJSGE&type=xhttp&security=tls&path=/&host=gm2026.global.ssl.fastly.net&mode=auto&sni=ssl.fastly.com&fp=chrome&insecure=1&allowInsecure=1#vpnsal
+vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
