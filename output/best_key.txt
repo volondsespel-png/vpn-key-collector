@@ -1,1 +1,1 @@
-vless://06f99c33-f12e-4249-8da6-d0fb00609afd@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=SvnTeamChannel.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.comconfigprxy#EPODONIOS
+vless://888193f6-6818-42f4-b223-64c9fd323b76@151.101.56.6:443?encryption=mlkem768x25519plus.random.0rtt._NGMclKEeu1LAXSf34rYI2QFSa5GPWgn4IBhz-nJSGE&type=xhttp&security=tls&path=/&host=gm2026.global.ssl.fastly.net&mode=auto&sni=ssl.fastly.com&fp=chrome&insecure=1&allowInsecure=1#vpnsal
