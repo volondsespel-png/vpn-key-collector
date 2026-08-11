@@ -1,1 +1,1 @@
-vless://InternetAzadRobot@151.101.1.57:80?mode=auto&path=/TignaliSWithYou&security=none&encryption=none&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&host=tignaltofan.global.ssl.fastly.net&type=xhttp#EPODONIOS
+vless://50414e45-4c5f-5a45-5553-7f7051730076@z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev:80?path=/stream/PANEL_ZEUS/7f7051730076&security=&encryption=none&host=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev&fp=chrome&type=ws&sni=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev#EPODONIOS
