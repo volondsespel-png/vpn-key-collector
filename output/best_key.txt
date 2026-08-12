@@ -1,1 +1,1 @@
-vless://888193f6-6818-42f4-b223-64c9fd323b76@hub.docker.com:2086?encryption=none&type=xhttp&path=/&host=plk.fc.havray2025.ir&mode=auto#vpnsal
+vless://255f9bd5-670f-4b34-9429-9e4388594160@151.101.56.7:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053&security=tls&encryption=none&insecure=0&host=pane3.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
