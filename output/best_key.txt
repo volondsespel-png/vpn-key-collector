@@ -1,1 +1,1 @@
-vless://29ca503d-e6b8-4509-b666-48133f450857@developers.cloudflare.com:443?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#🚀t.me/iProxyChannel
+vless://247396b2-12d9-4744-8203-9cd761a1117a@cl.ultrrasound.com:2053?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=fra2.musichubmel.ir&fp=chrome&type=httpupgrade&allowInsecure=0&sni=fra2.musichubmel.ir#🇨🇦139738 | ⚡️Telegram = t.me/SOSkeyNET
