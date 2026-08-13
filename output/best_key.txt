@@ -1,1 +1,1 @@
-vless://eb14f373-2935-4db0-a74b-90bfd2ab1031@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=SvnTeamChannel.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+trojan://humanity@render.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#MTMVPN 6
