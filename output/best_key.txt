@@ -1,1 +1,1 @@
-vless://74a025dd-c287-4acf-a5fb-e573e10feef9@cdn-cloudflare455.korvexe.ir:2095?path=/&security=none&encryption=none&host=cdn-cloudflare455.korvexe.ir&type=httpupgrade#🇨🇦139760 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev:8443?security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev&fp=chrome&type=ws&host=masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev&path=/?ed=2560#EPODONIOS
