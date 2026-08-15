@@ -1,1 +1,1 @@
-vless://cf096732-3496-4c3c-a9e9-a16595a9692e@151.101.56.7:443?mode=auto&path=/V2ray?ed=2095&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=retoi4Aasrahip.global.ssl.fastly.neT.&fp=chrome&type=xhttp&allowInsecure=1&sni=global.fastly.coM#kurdconfig
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@lt.mmhh.eu.cc:443?encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
