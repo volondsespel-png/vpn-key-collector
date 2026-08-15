@@ -1,1 +1,1 @@
-vless://7a657573-2b15-7da4-f946-ea01958fc999@195.85.59.55:443?path=%2Fstream%2FPANEL_ZEUS%2Fea01958fc999%2Floc-0&security=tls&encryption=none&insecure=0&host=amz7goecubds.qiz56mebupbs.workers.dev&fp=edge&type=ws&allowInsecure=0&sni=amz7goecubds.qiz56mebupbs.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Miami%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://cf096732-3496-4c3c-a9e9-a16595a9692e@SPEEDtest.Net:80?mode=auto&path=/V2ray?ed=2095&security=none&encryption=none&host=roter54Ahip.global.ssl.fastly.neT.&type=xhttp#kurdconfig
