@@ -1,1 +1,1 @@
-vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@8.35.211.87:2096?encryption=none&fp=firefox&host=go.iranfree.de5.net&path=%2Ffp%3Dchromefp%3Dchrome&security=tls&sni=go.iranfree.de5.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://cf096732-3496-4c3c-a9e9-a16595a9692e@SPEEDtest.Net:80?mode=auto&path=/V2ray?ed=2095&security=none&encryption=none&host=roter54Ahip.global.ssl.fastly.neT.&type=xhttp#EPODONIOS
