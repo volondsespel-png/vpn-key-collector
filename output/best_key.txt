@@ -1,1 +1,1 @@
-vless://cf096732-3496-4c3c-a9e9-a16595a9692e@SPEEDtest.Net:80?mode=auto&path=/V2ray?ed=2095&security=none&encryption=none&host=roter54Ahip.global.ssl.fastly.neT.&type=xhttp#kurdconfig
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#MTMVPN 11
