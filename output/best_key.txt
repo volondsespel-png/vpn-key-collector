@@ -1,1 +1,1 @@
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#[🇨🇦]t.me/ConfigV2RayNG
+vless://50414e45-4c5f-5a45-5553-7f7051730076@z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev:80?path=/stream/PANEL_ZEUS/7f7051730076&security=&encryption=none&host=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev&fp=chrome&type=ws&sni=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev#ZEUS | 🌐 | TelegramPeekConfig
