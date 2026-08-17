@@ -1,1 +1,1 @@
-vless://2b8738de-1af5-4267-b101-c05707769ed4@fans.liverpool.qzz.io:2053?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=fans.liverpool.qzz.io&path=%2FeyJqdW5rIjoiZXlpMnFWRURmWkp5ZCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=FaNs.livErpoOl.qZZ.io&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://0a12328a-572e-46a5-9332-84d21a986407@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=SvnTeamChannel.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
