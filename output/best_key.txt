@@ -1,1 +1,1 @@
-vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/16K876L0W1BeJ0u0?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (5)
+vless://cf096732-3496-4c3c-a9e9-a16595a9692e@SPEEDtest.Net:80?mode=auto&path=/V2ray?ed=2095&security=none&encryption=none&host=roter54Ahip.global.ssl.fastly.neT.&type=xhttp#kurdconfig
