@@ -1,1 +1,1 @@
-vless://2e3471c1-9eb0-4810-aec3-09c1118d2dfc@104.16.241.253:80?encryption=none&security=none&type=ws&host=morning-wildflower-70dd-ppal03.xotocip989.workers.dev&path=/?ed=2560#EPODONIOS
+vless://cf096732-3496-4c3c-a9e9-a16595a9692e@SPEEDtest.Net:80?mode=auto&path=/V2ray?ed=2095&security=none&encryption=none&host=roter54Ahip.global.ssl.fastly.neT.&type=xhttp#kurdconfig
