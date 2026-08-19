@@ -1,22 +1,22 @@
 #profile-title: Ultav-White-VPN⚡
 #profile-update-interval: 2
 trojan://Mehdi1234@172.64.144.251:2083?path=/&security=tls&insecure=0&host=purple-recipe-5e30.cimavo4626.workers.dev&type=ws&allowInsecure=0&sni=purple-recipe-5e30.cimavo4626.workers.dev#EPODONIOS
-trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev:2087?security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev&fp=chrome&type=ws&host=masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev&path=/?ed=2560#EPODONIOS
-trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443?security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev&fp=chrome&type=ws&host=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev&path=/?ed=2560#EPODONIOS
-trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#EPODONIOS
-trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.oyomohx.workers.dev:2053?security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.oyomohx.workers.dev&fp=chrome&type=ws&host=masterserver1-masterserver1-masterserver1-masterserver1.oyomohx.workers.dev&path=/?ed=2560#EPODONIOS
-trojan://8r<[9'l6hAO#8ZQi@104.18.109.147:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#EPODONIOS
-trojan://@V2ray_Alpha🏗️ 6@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
-trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@172.67.149.60:443?path=/in-pdr&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&ech=encryptedsni.com+udp://8.8.8.8&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#EPODONIOS
-trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev:8443?security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev&fp=chrome&type=ws&host=masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev&path=/?ed=2560#EPODONIOS
-trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev:8443?security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev&fp=chrome&type=ws&host=masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev&path=/?ed=2560#EPODONIOS
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=/&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#EPODONIOS
-trojan://Telegram-Config0plus@104.17.108.189:443?path=/ca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc#EPODONIOS
-ss://YWVzLTI1Ni1nY206SGk5d2sxNFZudHpHcTdrcQ@154.12.242.150:80#EPODONIOS
+trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#EPODONIOS
+trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.oyomohx.workers.dev:2053?security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.oyomohx.workers.dev&fp=chrome&type=ws&host=masterserver1-masterserver1-masterserver1-masterserver1.oyomohx.workers.dev&path=/?ed=2560#EPODONIOS
 trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev:8443?security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev&fp=chrome&type=ws&host=masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev&path=/?ed=2560#EPODONIOS
-trojan://20ba0c60-0133-11f1-95ef-1239d0255272@172.64.152.23:443?path=/howdy&security=tls&insecure=1&host=uk1.test3.net&type=ws&allowInsecure=1&sni=uk1.test3.net#EPODONIOS
+trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev:8443?security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev&fp=chrome&type=ws&host=masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev&path=/?ed=2560#EPODONIOS
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=/6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#EPODONIOS
 trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#EPODONIOS
-trojan://Aimer@167.68.4.199:2053?allowInsecure=1&host=epge.muarua.filegear-sg.me&path=/&sni=epge.muarua.filegear-sg.me&type=ws#EPODONIOS
+trojan://Aimer@167.68.4.199:2053?host=epge.muarua.filegear-sg.me&path=/?ed&sni=epge.muarua.filegear-sg.me&type=ws#EPODONIOS
 trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=/?proxyip=ts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#EPODONIOS
+trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev:2087?security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev&fp=chrome&type=ws&host=masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev&path=/?ed=2560#EPODONIOS
+trojan://Aimer@167.68.4.199:2053?allowInsecure=1&host=epge.muarua.filegear-sg.me&path=/&sni=epge.muarua.filegear-sg.me&type=ws#EPODONIOS
+trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#EPODONIOS
+trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443?security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev&fp=chrome&type=ws&host=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev&path=/?ed=2560#EPODONIOS
+trojan://20ba0c60-0133-11f1-95ef-1239d0255272@172.64.152.23:443?path=/howdy&security=tls&insecure=1&host=uk1.test3.net&type=ws&allowInsecure=1&sni=uk1.test3.net#EPODONIOS
+trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#EPODONIOS
+trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#EPODONIOS
+trojan://@V2ray_Alpha🏗️ 6@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
+trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev:8443?security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev&fp=chrome&type=ws&host=masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev&path=/?ed=2560#EPODONIOS
