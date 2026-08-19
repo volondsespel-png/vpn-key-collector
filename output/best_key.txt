@@ -1,1 +1,1 @@
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/sg-melbi/Telegram-TOOTFFARANGI-?=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
+vless://592ae5c3-6cae-4948-a7f0-4d4cdc0b8612@199.232.77.215:443?mode=auto&path=/&security=tls&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=Vistitrohamfastvipnexttt.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#EPODONIOS
