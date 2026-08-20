@@ -1,1 +1,1 @@
-vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?encryption=none&host=lsjaoijji.global.ssl.fastly.neT&path=%2F&security=tls&sni=ssl.fastly.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
+vless://ed0e05af-49ab-4ea8-a39c-634855811b03@time.is:443?path=/ws?ed=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=wild-grass-1917.tmpduardoolfsonerluke15.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=wild-grass-1917.tmpduardoolfsonerluke15.workers.dev#🇩🇪1
