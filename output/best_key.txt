@@ -1,1 +1,1 @@
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?mode=auto&path=/login&security=none&encryption=none&host=shangulin.global.ssl.fastly.net&type=xhttp#EPODONIOS
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?path=/GOrbEh#TELEGRAM-v2ray_configs_pools?ed=2560&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#EPODONIOS
