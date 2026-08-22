@@ -1,1 +1,1 @@
-vless://8546bcef-8456-41a2-82bc-d2231b42b769@www.baipiao.eu.org:8880?encryption=none&host=small-tree-9ec0.84-971.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://ed0e05af-49ab-4ea8-a39c-634855811b03@time.is:443?path=%2Fws%3Fed%3D443&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=wild-grass-1917.tmpduardoolfsonerluke15.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=wild-grass-1917.tmpduardoolfsonerluke15.workers.dev#%3E%3E%40freeland8%3A%3AUS
