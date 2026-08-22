@@ -1,1 +1,1 @@
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#EPODONIOS
+vless://fc8a0708-951a-4027-860f-2a154ebc4dd7@time.is:2083?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=crimson-king-301d.nexoxnet.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=crimson-king-301d.nexoxnet.workers.dev#🇩🇪
