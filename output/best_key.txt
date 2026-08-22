@@ -1,1 +1,1 @@
-vless://fc8a0708-951a-4027-860f-2a154ebc4dd7@time.is:2083?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=crimson-king-301d.nexoxnet.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=crimson-king-301d.nexoxnet.workers.dev#🇩🇪
+vless://b9871fab-8b17-47f8-8033-fa32867f0beb@151.101.56.7:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=7wwwspeedtestnet.global.ssl.fastly.net&path=/#🇺🇸150140 | ⚡️Telegram = t.me/SOSkeyNET
