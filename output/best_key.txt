@@ -1,1 +1,1 @@
-vless://XpnTeam-21@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://6324e2ab-9801-4768-8d6c-cb9e657807eb@www.speedtest.net:443?path=/ob43axjo0Q5vmfNA?ed=2560&security=tls&encryption=none&host=SaRA-PANEL.pagEs.dEv&type=ws&sni=Sara-PANeL.pAgEs.dEv#🇨🇦150158 | ⚡️Telegram = t.me/SOSkeyNET
