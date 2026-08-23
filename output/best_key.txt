@@ -1,1 +1,1 @@
-vless://6324e2ab-9801-4768-8d6c-cb9e657807eb@www.speedtest.net:443?path=/ob43axjo0Q5vmfNA?ed=2560&security=tls&encryption=none&host=SaRA-PANEL.pagEs.dEv&type=ws&sni=Sara-PANeL.pAgEs.dEv#🇨🇦150158 | ⚡️Telegram = t.me/SOSkeyNET
+vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#کانال ما
