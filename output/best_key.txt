@@ -1,1 +1,1 @@
-vless://b9871fab-8b17-47f8-8033-fa32867f0beb@151.101.56.7:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=7wwwspeedtestnet.global.ssl.fastly.net&path=/#🇺🇸150140 | ⚡️Telegram = t.me/SOSkeyNET
+vless://0ac6ad68-45cb-cd9e-459b-446568d15f69@tmesubgift.up.railway.app:443?encryption=none&security=tls&type=ws&host=tmesubgift.up.railway.app&path=/ws/0ac6ad68-45cb-cd9e-459b-446568d15f69&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1#107  حجم: 50
