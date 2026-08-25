@@ -1,1 +1,1 @@
-vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@chatgpt-async-webps-prod-centralus-0.chatgpt.com:443?encryption=none&security=tls&sni=german.sarzamiiinahang.ir&fp=chrome&allowinsecure=0&type=xhttp&mode=auto&path=/Meh?di=443#EPODONIOS
+vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@speedtest.net:80?path=/download&security=&encryption=none&host=sabzb2.global.ssl.fastly.net&type=ws#EPODONIOS
