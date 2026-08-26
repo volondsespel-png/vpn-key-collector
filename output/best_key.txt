@@ -1,1 +1,1 @@
-vless://68523e2c-59a9-4d9c-b4f8-04f8a72ec15c@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=xhttp&host=Vistitrohamfastvipnexttt.net&path=/&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#EPODONIOS
+vless://68523e2c-59a9-4d9c-b4f8-04f8a72ec15c@199.232.77.215:443?encryption=none&security=tls&sni=global.fastly.com&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=Vistitrohamfastvipnexttt.net&path=/&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#EPODONIOS
