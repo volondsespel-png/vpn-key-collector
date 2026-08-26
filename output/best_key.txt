@@ -1,1 +1,1 @@
-vless://8ddedcc7-6c4e-4df3-a190-ac40926f6694@104.18.32.47:8880?path=/pyip&security=none&encryption=none&host=late-boat-fbd7.152-de6.workers.dev&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?mode=auto&path=/login&security=none&encryption=none&host=shangulin.global.ssl.fastly.net&type=xhttp#EPODONIOS
