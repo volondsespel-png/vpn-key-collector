@@ -1,1 +1,1 @@
-vless://97532b08-357e-4140-a6f0-8e07f2ed3327@time.is:443?encryption=none&security=tls&sni=yf2.yifangg.de5.net&type=ws&host=yf2.yifangg.de5.net&path=%2Fproxyip%3Dkr.william.us.ci&flow=&alpn=h3&allowInsecure=0&fp=random#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@185.207.196.48:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#EPODONIOS
