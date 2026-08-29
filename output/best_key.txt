@@ -1,1 +1,1 @@
-vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=/?TELEGRAM-leviconfigs_leviconfigs?ed=2560&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT.&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://75a24f38-6942-41fe-a42b-ff1dd873c40f@199.232.78.140:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=panchar.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#EPODONIOS
