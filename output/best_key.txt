@@ -1,1 +1,1 @@
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#EPODONIOS
+vless://a61abe08-05d6-f72d-58ab-b92576abd790@speedtest.net:80?mode=auto&security=none&encryption=none&host=mmmd-sisjz.global.ssl.fastly.net&type=xhttp#EPODONIOS
