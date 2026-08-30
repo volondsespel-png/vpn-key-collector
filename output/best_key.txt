@@ -1,1 +1,1 @@
-vless://a61abe08-05d6-f72d-58ab-b92576abd790@speedtest.net:80?mode=auto&security=none&encryption=none&host=mmmd-sisjz.global.ssl.fastly.net&type=xhttp#EPODONIOS
+vless://ba746959-18e7-471c-b00f-fa5cdd930abf@skk.moe:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=none&encryption=none&host=crimson-bread-c38e.295.workers.dev&type=ws#EPODONIOS
