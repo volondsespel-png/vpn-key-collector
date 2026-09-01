@@ -1,1 +1,1 @@
-vless://a1ee277e-93b7-4aa9-86a2-c7ef85a2adb0@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER&security=tls&encryption=none&insecure=0&host=pane3.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#kurdconfig
+vless://XpnTeam-44@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
