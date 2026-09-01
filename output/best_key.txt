@@ -1,1 +1,1 @@
-vless://d0ee468a-084b-411d-b2be-b886a61065d1@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@199.232.78.159:443?path=/&security=tls&encryption=none&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#EPODONIOS
