@@ -1,1 +1,1 @@
-vless://86c2939c-4506-4028-cdc9-6fe073890e81@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://4c027fc2-adb0-44e5-9e40-33a8d6c83a4a@hajlab.ucdavis.edu:80?encryption=none&security=none&type=xhttp&mode=auto&host=Vistitrohamfastvipnexttt.net&path=/&extra={"mode":"auto","xPaddingBytes":"100-1000"}#EPODONIOS
