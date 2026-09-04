@@ -1,1 +1,1 @@
-vless://26086552-5b79-d167-dd18-1ea000000000@lczoox-b5gygc-24w8tc.rozhaghadri.workers.dev:443?encryption=none&security=tls&sni=lczoox-b5gygc-24w8tc.rozhaghadri.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=lczoox-b5gygc-24w8tc.rozhaghadri.workers.dev&path=/sync#کانال ما
+vless://0d03e44f-f60f-41b6-8ad7-13445af164fd@151.101.65.242:443?path=/ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=adheres-scruple.quick-cdn.net&fp=chrome&type=ws&allowInsecure=0&sni=adheres-scruple.quick-cdn.net#EPODONIOS
