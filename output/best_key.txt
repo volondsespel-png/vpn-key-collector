@@ -1,1 +1,1 @@
-vless://ccba4c0c-91a5-4af3-8177-ffeef96c9bfe@speedtest.net:80?mode=auto&path=/&security=&encryption=mlkem768x25519plus.native.0rtt.6qg5x9XG9X-kuTIwSCwol_7QMetbXFfO_FE9yYAmMzw&host=sahegzjasd.global.ssl.fastly.net&type=xhttp#کانال ما
+trojan://MiTiVPN@151.101.56.7:443?path=/---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
