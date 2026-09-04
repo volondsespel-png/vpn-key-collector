@@ -1,1 +1,1 @@
-vless://0d03e44f-f60f-41b6-8ad7-13445af164fd@151.101.65.242:443?path=/ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=adheres-scruple.quick-cdn.net&fp=chrome&type=ws&allowInsecure=0&sni=adheres-scruple.quick-cdn.net#EPODONIOS
+vless://d0e7672e-b882-43c3-900b-94723ea29923@199.232.78.159:443?path=/&security=tls&encryption=none&host=Swedenman.global.ssl.fastly.net.&type=ws&sni=ssl.fastly.com#EPODONIOS
