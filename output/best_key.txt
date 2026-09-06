@@ -1,1 +1,1 @@
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.80.73:443?path=/?TELEGRAM-leviconfigs?ed=512&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#EPODONIOS
+vless://4c027fc2-adb0-44e5-9e40-33a8d6c83a4a@hajlab.ucdavis.edu:80?encryption=none&security=none&type=xhttp&mode=auto&host=Vistitrohamfastvipnexttt.net&path=/&extra={"mode":"auto","xPaddingBytes":"100-1000"}#EPODONIOS
