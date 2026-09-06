@@ -1,1 +1,1 @@
-vless://7e26fd8f-d75a-473d-84ba-9f4e3f47d086@172.67.185.142:443?host=7-m20.c3d5336a-3310-48b7-8505-ec90b7a7df24.kdns.fr&path=%2F8qMLgNapWf6SBxo8fhQlVPYO&security=tls&sni=7-m20.c3d5336a-3310-48b7-8505-ec90b7a7df24.kdns.fr&type=ws&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D
+trojan://MiTiVPN@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-ss-mitivpn-----mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
