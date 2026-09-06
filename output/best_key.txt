@@ -1,1 +1,1 @@
-trojan://MiTiVPN@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-ss-mitivpn-----mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+trojan://5e5340e6-433d-b5f7-0062-d793046eb281@94.140.0.100:8443?path=/eyJqdW5rIjoiMWphS1ZyYzRTbGsiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W10sInJlbGF5SWR4IjoyM30=&security=tls&insecure=0&host=blue-queen-d517.aaj1388324.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=blue-queen-d517.aaj1388324.workers.dev#EPODONIOS
