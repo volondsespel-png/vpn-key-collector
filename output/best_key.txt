@@ -1,1 +1,1 @@
-vless://daee66b7-3f5e-46d7-83c1-4d93a5fb33c3@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://d9eda159-18d6-4457-8983-55523a21658c@151.101.56.6:443?security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#کانال تلگرام MTMVPN
