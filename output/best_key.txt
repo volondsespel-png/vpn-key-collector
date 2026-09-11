@@ -1,1 +1,1 @@
-vless://a746a471-0339-41ae-9750-d1f572bde296@www.speedtest.net:443?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=ydqbcj3ie4sqjux1ah93x.l9yawn7wagnmfd0-cnzjndc1u24q.workers.dev&path=/vl/7yf2GT0XIaJgDSbtvWxhjdjhPh9pVt3&security=tls&sni=ydQbcj3iE4sQjux1aH93X.L9YawN7waGnMFD0-CNZjndc1u24Q.WoRKERs.dEV&type=ws#EPODONIOS
+vless://3ffec0f7-8837-4568-a039-d124abfee84f@14.102.229.229:2053?security=tls&sni=ajghg.f-vipo.ir&type=ws&host=ajghg.f-vipo.ir&fp=chrome&alpn=h2#EPODONIOS
