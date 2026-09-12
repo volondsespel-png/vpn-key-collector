@@ -1,1 +1,1 @@
-vless://606f69ca-ad93-457d-a81c-3d2091ed0d24@151.101.56.6:443?path=/ParSashOnaM?ed=2048&security=tls&encryption=none&insecure=0&host=Zardaloo.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://XpnTeam-6@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
