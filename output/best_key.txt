@@ -1,1 +1,1 @@
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.30:2087?host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=/fp=chrome&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws#EPODONIOS
+vless://606f69ca-ad93-457d-a81c-3d2091ed0d24@151.101.56.6:443?path=/ParSashOnaM?ed=2048&security=tls&encryption=none&insecure=0&host=Zardaloo.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
