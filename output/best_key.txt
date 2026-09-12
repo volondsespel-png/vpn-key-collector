@@ -1,1 +1,1 @@
-vless://3ffec0f7-8837-4568-a039-d124abfee84f@14.102.229.229:2053?security=tls&sni=ajghg.f-vipo.ir&type=ws&host=ajghg.f-vipo.ir&fp=chrome&alpn=h2#EPODONIOS
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.30:2087?host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=/fp=chrome&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws#EPODONIOS
