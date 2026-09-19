@@ -1,1 +1,1 @@
-trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#13
+vless://c1acfee1-5199-4a4f-84bb-d14a7b651d0d@199.232.250.122:443?mode=auto&path=/&security=tls&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=tamashasdasaf3800.com&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#EPODONIOS
