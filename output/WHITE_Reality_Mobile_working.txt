@@ -1,3 +1,4 @@
 #profile-title: Ultav-White-VPN⚡
 #profile-update-interval: 2
+trojan://wYQ9WYorgO@213.171.27.80:37490?security=none&type=raw&fp=android#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
 vless://00d4010a-ac43-48a4-a790-50a50599e616@95.163.155.137:31585?encryption=none&security=none&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
