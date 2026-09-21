@@ -1,22 +1,22 @@
 #profile-title: Ultav-White-VPN⚡
 #profile-update-interval: 2
-trojan://mitivpn@151.101.56.7:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-trojan://mitivpn@199.232.78.101:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-trojan://mitivpn@151.101.56.7:443?security=tls&alpn=http/1.1&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#EPODONIOS
-trojan://mitivpn@167.82.76.7:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 trojan://mitivpn@199.232.78.160:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-55e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-vless://029fc301-ac31-4aae-9fd8-5d0bff6ec5c0@a2.arshia-nova.ir:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=h2&type=ws&host=c12.com&path=/#EPODONIOS
-vless://029fc301-ac31-4aae-9fd8-5d0bff6ec5c0@k2.cloud--vpn.site:443?encryption=none&type=ws&security=tls&path=/&host=c12.com&sni=ssl.fastly.com&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#EPODONIOS
+trojan://mitivpn@151.101.56.56:443?security=tls&alpn=http/1.1&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#EPODONIOS
+trojan://mitivpn@199.232.78.160:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-55e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://029fc301-ac31-4aae-9fd8-5d0bff6ec5c0@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://029fc301-ac31-4aae-9fd8-5d0bff6ec5c0@k2.cloud--vpn.site:443?encryption=none&type=ws&security=tls&path=/&host=c12.com&sni=ssl.fastly.com&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#EPODONIOS
 vless://029fc301-ac31-4aae-9fd8-5d0bff6ec5c0@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://029fc301-ac31-4aae-9fd8-5d0bff6ec5c0@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-vless://12af43c3-84b4-4248-878b-b75f35835487@104.16.72.251:2096?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=network&allowInsecure=0&sni=decdn.ramlike.ir#EPODONIOS
-trojan://humanity@chat.openai.com:443?path=/assignment&security=tls&alpn=h2&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
+vless://029fc301-ac31-4aae-9fd8-5d0bff6ec5c0@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+trojan://mitivpn@151.101.56.56:443?security=tls&alpn=http/1.1&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#EPODONIOS
 trojan://mitivpn@151.101.56.56:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 trojan://mitivpn@151.101.56.56:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
-trojan://mitivpn@167.82.76.7:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-trojan://mitivpn@199.232.78.101:443?security=tls&alpn=http/1.1&insecure=0&host=-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-trojan://mitivpn@199.232.78.101:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-vless://00be8dab-84dc-c4a3-5214-0987fbb4cbb3@69.46.46.34:443?path=/ws/00be8dab-84dc-c4a3-5214-0987fbb4cbb3&security=tls&alpn=http/1.1&encryption=none&host=ivory-ridge-9884-production.up.railway.app&fp=chrome&type=ws&sni=ivory-ridge-9884-production.up.railway.app#EPODONIOS
-vless://029fc301-ac31-4aae-9fd8-5d0bff6ec5c0@151.101.56.6:443?path=/?TELEGRAM-TOOTFFARANGI&security=tls&alpn=h2&encryption=none&host=c12.com&fp=chrome&type=ws&sni=ssl.fastly.com#EPODONIOS
+trojan://mitivpn@151.101.56.7:443?path=/&security=tls&insecure=0&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+trojan://mitivpn@199.232.78.101:443?path=/&security=tls&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://029fc301-ac31-4aae-9fd8-5d0bff6ec5c0@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&host=c12.com&fp=chrome&type=ws&sni=ssl.fastly.com#EPODONIOS
+vless://029fc301-ac31-4aae-9fd8-5d0bff6ec5c0@k2.cloud--vpn.site:443?encryption=none&type=ws&security=tls&path=/&host=c12.com&sni=ssl.fastly.com&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#EPODONIOS
+vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@speedtest.net:80?path=/download&security=&encryption=none&host=sabzb2.global.ssl.fastly.net&type=ws#EPODONIOS
+vless://12aa4a28-ef6a-49f2-9e16-4ad8fc34a6af@TFast.clnet.site:443?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=erfanyosyour-name.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=global.fastly.com#EPODONIOS
+trojan://mitivpn@151.101.56.56:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+trojan://mitivpn@151.101.56.7:443?security=tls&alpn=http/1.1&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#EPODONIOS
+trojan://mitivpn@151.101.56.7:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
