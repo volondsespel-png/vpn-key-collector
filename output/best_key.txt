@@ -1,1 +1,1 @@
-trojan://MiTIVPN@199.232.78.160:443?path=/------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------&&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+trojan://MiTIVPN@199.232.78.160:443?path=%&security=tls&alpn=http/1.1&insecure=0&host=44e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fa
