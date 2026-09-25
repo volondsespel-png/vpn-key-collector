@@ -1,4 +1,3 @@
 #profile-title: Ultav-White-VPN⚡
 #profile-update-interval: 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Qi1YX091TXNHeFdqMEFoSjlhTWRwaHRfaFFmWWVOeg==@46.149.68.124:1088#%F0%9F%87%B7%F0%9F%87%BA%20Russia
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Qi1YX091TXNHeFdqMEFoSjlhTWRwaHRfaFFmWWVOeg==@192.209.62.92:211#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
