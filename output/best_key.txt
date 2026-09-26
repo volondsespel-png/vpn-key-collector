@@ -1,1 +1,1 @@
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#‌
+vless://91a32c70-7a90-42ca-94d5-cd44b98cd262@openai.com:8880?mode=auto&path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.CybG6umLP4jQpLdOkQISWZWrQD_caUk8ey4j8b4clx0&host=sitewebs.f8r.ir&type=xhttp#EPODONIOS
