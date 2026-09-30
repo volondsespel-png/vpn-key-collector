@@ -1,22 +1,22 @@
 #profile-title: Ultav-White-VPN⚡
 #profile-update-interval: 2
-trojan://humanity@208.103.161.170:443?security=tls&sni=www.calmloud.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=www.calmloud.com&path=/assignment#🇺🇸184389 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@chatgpt.com:443?security=tls&sni=www.gossipglove.com&insecure=0&allowInsecure=0&type=ws&host=www.gossipglove.com&path=/assignment#🇨🇦184355 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://MiTiVPN@151.101.56.7:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---de--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#kurdconfig
-trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#5
-trojan://humanity@45.130.125.76:443?security=tls&sni=www.calmlunch.com&alpn=http/1.1&insecure=1&allowInsecure=1&type=ws&host=www.calmlunch.com&path=/assignment#🇸🇨184421 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@45.80.111.7:443?security=tls&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#🇩🇪184386 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://MiTIVPN@199.232.78.101:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#bisto4_service
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?path=/tjwsLhx0SFASG4l9FERJ1g&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mfyousheng.nl.eu.org#🇱🇺 | 10
-trojan://humanity@104.18.152.233:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#7
-trojan://humanity@216.24.57.7:443?security=tls&sni=www.ignitelimit.com&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#🇺🇸184341 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://MiTiVPN@151.101.56.9:443?security=tls&alpn=http/1.1&host=-1.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#kurdconfig
-trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&path=/assignment#vpnsal
-trojan://humanity@45.130.125.126:443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=www.multiplydose.com&path=/assignment#🇸🇨184369 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://MiTiVPN@151.101.56.255:443?path=/?&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---nl--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#MTMVPN
-trojan://Telegram-Config0plus@104.17.108.189:443?path=/ca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc#TEL;Father_vpn
-trojan://humanity@104.18.152.225:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#🇨🇦184335 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@172.64.147.24:443?security=tls&sni=www.gossipglove.com&insecure=1&allowInsecure=1&type=ws&host=www.gossipglove.com&path=/assignment#🇨🇦184344 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
-trojan://MiTiVPN@199.232.78.188:443?security=tls&alpn=http/1.1&host=.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#kurdconfig
+trojan://humanity@www.ignitelimit.com:443?security=tls&insecure=1&allowInsecure=1&type=ws&path=/assignment#🇨🇦184387 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#6
+trojan://humanity@104.18.152.246:443?security=tls&sni=www.calmloud.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=www.calmloud.com&path=/assignment#🇨🇦184334 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦184450 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@216.24.57.7:443?security=tls&sni=www.ignitelimit.com&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#🇺🇸184341 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@45.130.125.76:443?security=tls&sni=www.calmlunch.com&alpn=http/1.1&insecure=1&allowInsecure=1&type=ws&host=www.calmlunch.com&path=/assignment#🇸🇨184421 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@chatgpt.com:443?security=tls&sni=www.gossipglove.com&insecure=0&allowInsecure=0&type=ws&host=www.gossipglove.com&path=/assignment#🇨🇦184355 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@www.speedtest.net:443?path=/assignment#Telegram---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Telegram Proxy_mtm
+trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
+trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#3
+trojan://humanity@104.16.174.117:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#🇨🇦184328 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#5
+trojan://humanity@104.16.71.213:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=/assignment#🇨🇦184327 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#‌
+trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&path=/assignment#vpnsal
+trojan://humanity@www.gossipglove.com:443?security=tls&insecure=1&allowInsecure=1&type=ws&path=/assignment#🇨🇦184353 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@104.18.152.225:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#🇨🇦184335 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@www.speedtest.net:443?path=/assignment#Telegram------mtmvpn---mtmvpn&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#MTMVPN
+trojan://humanity@104.18.13.149:443?security=tls&sni=www.calmloud.com&fp=chrome&alpn=http/1.1&insecure=1&allowInsecure=1&type=ws&host=www.calmloud.com&path=/assignment#🇨🇦184350 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#kurdconfig
