@@ -1,22 +1,22 @@
 #profile-title: Ultav-White-VPN⚡
 #profile-update-interval: 2
-vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
-trojan://MiTiVPN@151.101.56.255:443?path=/?&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---nl--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#MTMVPN
-vless://a80131f7-df04-49c2-9740-9a3d0639ef7b@199.232.78.159:443?path=/?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#kurdconfig
-vless://9e9fd625-e4d7-4944-ae7e-4145342fa5db@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#MTMVPN
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#TEL;Father_vpn
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.170-0068
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.167-0066
-trojan://MiTiVPN@199.232.78.188:443?security=tls&alpn=http/1.1&host=.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#kurdconfig
-trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#8
-vless://dc2fa672-c063-4c0d-b995-483d45db7349@199.232.78.159:443?path=/&security=tls&encryption=none&host=looazjboijji.global.ssl.fastly.net.&type=ws&sni=ssl.fastly.com#🇺🇸184907 | ⚡️Telegram = t.me/SOSkeyNET
-vless://e60b5080-9c89-4edb-a36b-747a5fa8e708@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=ukvman.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#ProxyMtpVPN-371
-vless://ebfc0509-53ed-46c6-96d9-e6788ab31cac@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&allowinsecure=0&type=ws&host=7wwwspeedtestnet.global.ssl.fastly.net&path=/#configprxy
 vless://f47c506e-9b4a-41ce-a07c-ef084c16468c@199.232.78.159:80?mode=auto&path=/xhttp&security=none&encryption=none&extra={"xPaddingBytes":"0"}&host=kabotar.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
-vless://08ffff12-93bb-42eb-8c83-6489644a1d04@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3E%40configV2rayNG%3A%3AFI
-vless://82ebd58c-156a-4c2b-9cf9-1762f0a1e04f@change.org:443?security=tls&sni=rAyAn-007.lEiLa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.lEiLa.dPdNs.oRg&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://telegraph.rayan.dpdns.org/translate
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=%2F&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://MiTIVPN@199.232.78.101:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#bisto4_service
-trojan://mitivpn@199.232.78.188:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#kurdconfig
-vless://--DIGiV2RAY---@discord.gg:80?path=/Digiv2ray-&security=none&encryption=none&host=ædígí.RadioTeHran.oRG.&type=ws#MCI
-vless://70c16ec7-13f7-473b-b97d-06399f1481e3@172.64.80.1:8880?security=none&encryption=none&host=mute-surf-0003.209.workers.dev&type=ws#✅ t.me/bigAVPN ایران آزاد 👑
-vless://81caa837-c213-4731-a02e-662380ad1e2f@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/VeJJ5MwyXaAbhkV8?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN - Free (3)
+vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/DBD001v7ZAlmIpnP?ed=2560#CxrolVPN Free (3)
+vless://2c091afc-ca2f-4e75-9e05-3941dfb2b1c0@199.232.78.143:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=Napalexp.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=edge.microsoft.com#рҹҮәрҹҮё184906 | вҡЎпёҸTelegram = t.me/SOSkeyNET
+vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/AWGG17eLHc5QLzJr?ed=2560#CxrolVPN Free (4)
+vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/FkJEHRUYQOp0TIQ5?ed=2560#CxrolVPN Free (1)
+vless://81caa837-c213-4731-a02e-662380ad1e2f@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/83JWdcC2XXJrBR5m?ed=2560#CxrolVPN - Free (1)
+vless://b8908b7c-8e63-4d0b-a4da-8f47c6c9dd6a@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053&security=tls&encryption=none&insecure=0&host=Fijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#вқӨпёҸ7
+vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#TEL;Father_vpn
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@198.202.211.1:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=/GOrbEh#рҹҮәрҹҮё139875 | вҡЎпёҸTelegram = t.me/SOSkeyNET
+vless://d6971cc4-a506-49f6-8ebb-f911317763d8@104.19.141.3:443?path=/36.95.152.58=12137&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
+trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@188.114.97.6:443?path=/trojan&security=tls&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=id1.nathaya.web.id&type=ws&allowInsecure=0&sni=id1.nathaya.web.id#kurdconfig
+trojan://humanity@www.speedtest.net:443?path=/assignment#Telegram---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Telegram Proxy_mtm
+trojan://mitivpn@199.232.78.188:443?path=
+vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.64.1:8080?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/AKzyeMv5F4RdKNLT?ed=2560#CxrolVPN Free (2)
+vless://27302727-9dfa-4975-990e-88c7a63747cd@188.114.97.6:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=tc.amoovictor.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=tc.amoovictor.cc.cd#TEL;Father_vpn
+vless://247396b2-12d9-4744-8203-9cd761a1117a@cl.ultrrasound.com:2053?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=fra2.musichubmel.ir&fp=chrome&type=httpupgrade&allowInsecure=0&sni=fra2.musichubmel.ir#рҹҮЁрҹҮҰ139738 | вҡЎпёҸTelegram = t.me/SOSkeyNET
+vless://6ba68c69-e108-502d-7b1c-e806fbc3cccd@151.101.56.9:443?mode=auto&security=tls&alpn=h2&encryption=none&insecure=0&host=shshsujsjiiyour-name.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#рҹҮәрҹҮё185041 | вҡЎпёҸTelegram = t.me/SOSkeyNET
+vless://70c16ec7-13f7-473b-b97d-06399f1481e3@172.64.80.1:8880?type=ws&host=mute-surf-0003.209.workers.dev#рҹҮЁрҹҮҰ185045 | вҡЎпёҸTelegram = t.me/SOSkeyNET
