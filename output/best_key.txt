@@ -1,1 +1,1 @@
-trojan://humanity@104.18.152.233:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#7
+vless://8ace654e-5858-4011-821c-79de9deaafb4@fast.jkerm.com:443?path=/&security=tls&encryption=none&insecure=0&host=italyji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#t.me/mtmvpn
