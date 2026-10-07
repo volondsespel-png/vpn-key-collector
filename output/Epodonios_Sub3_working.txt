@@ -1,22 +1,22 @@
 #profile-title: Ultav-White-VPN⚡
 #profile-update-interval: 2
-vless://387ea624-7cdb-41de-b3d8-798d3769c2b7@151.101.56.7:443?path=/&security=tls&encryption=none&insecure=1&host=kayko.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#EPODONIOS
+vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@199.232.9.254:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=pokerrr.global.ssl.fastly.net&path=/#EPODONIOS
 vless://36e8e5e8-8010-45a1-9fb7-9fa21f7e4c66@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://47746a0b-aaec-4a76-add9-21d2414b4921@199.232.78.143:443?insecure=0&encryption=none&sni=edge.microsoft.com&allowInsecure=0&security=tls&type=xhttp&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&host=Suporjaz.global.ssl.fastly.net&path=/&mode=auto&alpn=h2&fp=chrome#EPODONIOS
+vless://4aadbce0-ce45-411a-a888-14cf02908168@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=looazjboijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://5b8ce557-47d6-4a57-ada2-097a795a6d19@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://36e8e5e8-8010-45a1-9fb7-9fa21f7e4c66@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=pannn1.global.ssl.fastly.net&path=/#EPODONIOS
+vless://36e8e5e8-8010-45a1-9fb7-9fa21f7e4c66@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://36e8e5e8-8010-45a1-9fb7-9fa21f7e4c66@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-vless://3d427d75-e48f-419e-b72b-75c7e402300f@fs.koomeh.net:443?mode=auto&path=/rmnwv&security=tls&encryption=none&insecure=0&host=Ajbbwuvmiiiiiiir0097.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://3e89df69-7619-4788-9eee-c49c02a69705@199.232.78.155:443?mode=auto&path=/&security=tls&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=Vistitrohamfastvipnexttt.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#EPODONIOS
 vless://304ce976-6acf-45e0-8e9c-c776beed2bba@fastly2.videobazi.com:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/&security=tls&encryption=none&insecure=0&host=tv21.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#EPODONIOS
-vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=canadajji.global.ssl.fastly.net.&path=/#EPODONIOS
-vless://387ea624-7cdb-41de-b3d8-798d3769c2b7@199.232.246.236:443?path=/&security=tls&encryption=none&insecure=1&host=teranko.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#EPODONIOS
-vless://36920e42-960d-4a47-c937-a555f2f36db3@net.pluse.vexava.ir:80?path=/&security=none&encryption=none&host=imnoirex.global.ssl.fastly.net&type=ws#EPODONIOS
-vless://4aadbce0-ce45-411a-a888-14cf02908168@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=looazjboijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@199.232.20.113:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=loosboijji.global.ssl.fastly.net.&path=/#EPODONIOS
 vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@199.232.20.113:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=yakoozanman.global.ssl.fastly.neT.&path=/#EPODONIOS
-vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@199.232.9.254:443?path=/&security=tls&encryption=none&host=finliijji.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#EPODONIOS
+vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@199.232.9.254:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=norwayji.global.ssl.fastly.net.&path=/#EPODONIOS
+vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@199.232.9.254:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=norwayji.global.ssl.fastly.net.&path=/#EPODONIOS
 vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@fast.jkerm.com:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=italyji.global.ssl.fastly.net.&path=/#EPODONIOS
-vless://36e8e5e8-8010-45a1-9fb7-9fa21f7e4c66@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=pannn1.global.ssl.fastly.net&path=/#EPODONIOS
-vless://36e8e5e8-8010-45a1-9fb7-9fa21f7e4c66@199.232.78.159:443?security=tls&encryption=none&host=pannn1.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#EPODONIOS
-vless://387ea624-7cdb-41de-b3d8-798d3769c2b7@199.232.246.236:443?path=/&security=tls&encryption=none&insecure=1&host=teranko.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#EPODONIOS
-vless://3d9092f3-2ee2-497a-9732-ee7570531c09@199.232.78.159:443?path=/&security=tls&encryption=none&host=pokerrr.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#EPODONIOS
-vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@199.232.20.113:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=loosboijji.global.ssl.fastly.net.&path=/#EPODONIOS
+vless://49e29dba-814a-50b0-b4a9-deffe26ae624@199.232.78.170:443?path=/&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@199.232.20.113:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=swissjji.global.ssl.fastly.net.&path=/#EPODONIOS
+vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=canadajji.global.ssl.fastly.net.&path=/#EPODONIOS
+vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@199.232.9.254:443?path=/&security=tls&encryption=none&host=finliijji.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#EPODONIOS
+vless://31608e93-a701-4604-b8de-c55baa393937@199.232.239.239:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=h2&encryption=none&insecure=0&host=uol258ehdmsohzh.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://36e8e5e8-8010-45a1-9fb7-9fa21f7e4c66@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
