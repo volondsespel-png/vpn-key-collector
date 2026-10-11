@@ -1,1 +1,1 @@
-vless://7a196b46-ddc6-48cc-9f6b-e933919fbe87@fstly.hosting-96.ir:443?encryption=none&type=xhttp&security=tls&path=/&host=henzojan.global.ssl.fastly.net&mode=auto&sni=speedtest.net&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS
+vless://4908acbe-485f-4e1c-bb11-5dd04b9f7e88@restless-base-fe24.alirezahabibi20009.workers.dev:443?encryption=none&host=restless-base-fe24.alirezahabibi20009.workers.dev&path=%2FeyJqdW5rIjoiRjhycEV5WUpJTGZpQSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
