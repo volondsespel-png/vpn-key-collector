@@ -1,1 +1,1 @@
-trojan://mitivpn@199.232.78.160:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn-2--vip.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.fastly.com#EPODONIOS
+vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?path=/XIXVPN?ed&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=r4fnviw9jl4i4rx.zjde5.de5.net#EPODONIOS
