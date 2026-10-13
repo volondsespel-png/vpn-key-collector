@@ -1,1 +1,1 @@
-vless://1ac4358d-76de-477b-9400-1bbef47814ad@pinterest.com:80?mode=auto&path=/cdn&security=&encryption=none&host=de-ultranv.global.ssl.fastly.net&type=xhttp#🇨🇦193111 | ⚡️Telegram = t.me/SOSkeyNET
+vless://1ac4358d-76de-477b-9400-1bbef47814ad@pinterest.com:80?encryption=none&security=none&type=xhttp&host=uk-ultranv.global.ssl.fastly.net&path=/cdn&mode=auto#EPODONIOS
