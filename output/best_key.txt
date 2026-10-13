@@ -1,1 +1,1 @@
-vless://d342d11e-d224-4463-b982-532309285094@188.164.248.216:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
+vless://1ac4358d-76de-477b-9400-1bbef47814ad@pinterest.com:80?mode=auto&path=/cdn&security=&encryption=none&host=de-ultranv.global.ssl.fastly.net&type=xhttp#🇨🇦193111 | ⚡️Telegram = t.me/SOSkeyNET
