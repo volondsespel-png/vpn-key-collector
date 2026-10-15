@@ -1,1 +1,1 @@
-vless://1ac4358d-76de-477b-9400-1bbef47814ad@pinterest.com:80?mode=auto&path=/cdn&security=none&encryption=none&host=de-ultranv.global.ssl.fastly.net&type=xhttp#EPODONIOS
+trojan://mitivpn@167.82.64.46:443?security=tls&sni=play.google.com&fp=chrome&alpn=http/1.1&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=ws&host=mitivpn-s1.global.ssl.fastly.net&path=/ bored_vpn#EPODONIOS
