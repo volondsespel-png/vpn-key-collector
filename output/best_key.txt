@@ -1,1 +1,1 @@
-vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=nuverv.appleseraj.ir&sni=nuverv.appleseraj.ir&fp=chrome#🇩🇪| 𝐍𝐮𝐫𝐞𝐧𝐛𝐞𝐫𝐠𝟐
+vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/DBD001v7ZAlmIpnP?ed=2560#CxrolVPN Free (3)
