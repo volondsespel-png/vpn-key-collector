@@ -1,1 +1,1 @@
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.volumeroot.com&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
+vless://0873316d-539b-498f-bba2-04d37dfb1cb5@2e9c6de06bd9.salzivo.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"headers":{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"}}&host=oykdjnx2yogf.global.ssl.fastly.net&type=xhttp#🇺🇸197192 | ⚡️Telegram = t.me/SOSkeyNET
