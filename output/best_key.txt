@@ -1,1 +1,1 @@
-trojan://humanity@8.47.69.0:443?security=tls&type=ws&sni=www.pleadcourt.org&path=%2Fassignment&host=www.pleadcourt.org&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
+vless://410bc842-c3df-4fc5-9e11-0feab5c97d64@2e9c6de06bd9.salzivo.ir:443?vcn=default.ssl.fastly.net&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=google.com&mode=auto&path=/?ed=2048&security=tls&encryption=none&insecure=0&host=jqlxfsjqfg6d.global.ssl.fastly.net&allowInsecure=0#vpnsal
