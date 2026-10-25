@@ -1,22 +1,22 @@
 #profile-title: Ultav-White-VPN⚡
 #profile-update-interval: 2
-trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#برای اتصال دائمی جوین شو🪻 TelegramID ⌲Express_freevpn 🪩
-trojan://288c33ad-4c57-45fe-8e7b-22f6209980c1@de01.node.qixi.best:443?type=ws&path=/download&host=de01.node.qixi.best&security=tls&sni=de01.node.qixi.best&fp=chrome#🇨🇦199741 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#‌
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.calmlunch.com#kurdconfig
-trojan://humanity@188.114.98.0:443?path=/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.volumeroot.com#kurdconfig
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#vpnsal
+trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#3
+trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#6
 trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&fp=chrome&type=ws&host=www.volumeroot.com&path=/assignment#🎃 Halloween 🕸️
-trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
-trojan://humanity@212.183.88.136:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn
-trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#TEL;Father_vpn
-trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=s1.mitivpn.de.ssl.global.fastly.com.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=s1.mitivpn.de.ssl.global.fastly.co.iranpoems.ir#TEL;Father_vpn
-trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.sddde.ssddl.globddal.fassdtdly.cow.mitivpn.site#TEL;Father_vpn
-trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.sdde.ssdl.globdal.fastdly.net.mitivpn.site#TEL;Father_vpn
-trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#5
-trojan://humanity@172.64.145.133:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦199867 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=chrome&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#برای اتصال دائمی جوین شو🥏 TelegramID ⌲v2ray_configs_pools 🪩
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#TEL;Father_vpn
+trojan://mitivpn@27.50.48.49:443?path=/index.html/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#TEL;Father_vpn
 trojan://humanity@188.114.97.6:443?path=/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.volumeroot.com#kurdconfig
-trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&fp=chrome&type=ws&host=www.volumeroot.com&path=/assignment#🎃 Halloween 🎃
-trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩
-trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[🏁]t.me/ConfigsHub
+vless://--DIGiV2RAY---@185.146.173.59:80?path=/Digiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
+trojan://humanity@188.114.97.6:443?path=/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#vpnsal
+trojan://mitivpn@188.114.97.6:443?path=/?mitivpn&security=tls&alpn=http/1.1&insecure=0&host=sdasdfgv.global.ssl.fastly.net.mitivpn-a.site&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com.mitivpn-a.site#TEL;Father_vpn
+trojan://humanity@172.64.145.133:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦199867 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://mitivpn@188.114.97.6:443?path=/?mitivpn&security=tls&alpn=http/1.1&insecure=0&host=s2.mitivpn.nl.ssl.global.fastly.ir.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=s2.mitivpn.nl.ssl.global.fastly.dev.iranpoems.ir#TEL;Father_vpn
+trojan://50414e45-4c5f-5a45-5553-a0ce99682025@104.21.200.224:443?path=/stream/PANEL_ZEUS/a0ce99682025&security=tls&insecure=0&host=7pzcmuemuf6s.mahdi1395ra.workers.dev&fp=unsafe&type=ws&allowInsecure=0&sni=7pzcmuemuf6s.mahdi1395ra.workers.dev#🇨🇦197491 | ⚡️Telegram = t.me/v2ray_configs_pools
+trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#TEL;Father_vpn
+trojan://humanity@104.18.152.233:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#7
+trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#8
+trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#برای اتصال دائمی جوین شو🪻 TelegramID ⌲Express_freevpn 🪩
+vless://-DIGiV2RAY@185.146.173.59:80?path=/Digiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
+vless://-DIGiV2RAY@discord.gg:80?path=/Digiv2ray-&security=none&encryption=none&host=ædígí.RadioTeHran.oRG.&type=ws#MCI
+trojan://gHQP0D7D15@104.25.239.113:2053?security=tls&sni=marvdasht.phonecomparisonblog.org&type=ws&path=/#🇨🇦199937 | ⚡️Telegram = t.me/SOSkeyNET
