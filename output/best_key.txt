@@ -1,1 +1,1 @@
-trojan://humanity@185.18.250.245:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 France, Paris | [BL]
+vless://5e610f80-fc6a-479d-8621-b672355b96a1@128.203.252.97:443?encryption=none&security=tls&sni=cf-1rm.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cf-1rm.pages.dev&path=/#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%AE%F0%9F%87%B6%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
