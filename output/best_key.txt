@@ -1,1 +1,1 @@
-vless://81caa837-c213-4731-a02e-662380ad1e2f@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/VeJJ5MwyXaAbhkV8?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN - Free (3)
+vless://484af701-34a8-4957-bf61-0f7bc3891e59@grimness-backlogs.cdn-content.com:443?&security=tls&fp=chrome&sni=grimness-backlogs.cdn-content.com&type=ws&headerType=none&host=grimness-backlogs.cdn-content.com&path=%2Fws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
