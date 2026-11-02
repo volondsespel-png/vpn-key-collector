@@ -1,1 +1,1 @@
-vless://484af701-34a8-4957-bf61-0f7bc3891e59@grimness-backlogs.cdn-content.com:443?&security=tls&fp=chrome&sni=grimness-backlogs.cdn-content.com&type=ws&headerType=none&host=grimness-backlogs.cdn-content.com&path=%2Fws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://484af701-34a8-4957-bf61-0f7bc3891e59@151.101.129.242:443?encryption=none&fp=firefox&host=grimness-backlogs.cdn-content.com&path=/ws&security=tls&sni=grimness-backlogs.cdn-content.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
