@@ -1,1 +1,1 @@
-vless://63fcd1af-02c5-4048-bc03-def26ebe949a@151.101.1.242:443?type=ws&security=tls&path=%2Fws&host=piracy-android.video-streams.org&sni=piracy-android.video-streams.org&alpn=http%2F1.1&allowInsecure=0&insecure=0&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://d342d11e-d224-4463-b982-532309285094@104.18.41.86:443?type=ws&security=tls&sni=ccc.010304.xyz&path=%2F&host=ccc.010304.xyz#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
