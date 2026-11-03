@@ -1,1 +1,1 @@
-vless://5d76bd7c-d538-432f-a7d8-9be364427a19@ghosts-spasm.quick-cdn.net:443?path=/ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ghosts-spasm.quick-cdn.net&fp=chrome&type=ws&allowInsecure=0&sni=ghosts-spasm.quick-cdn.net#🇩🇪205746 | ⚡️Telegram = t.me/LonUp_M
+vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.21:8443?encryption=none&security=tls&sni=u.srilankangrill.online&fp=android&type=ws&host=u.srilankangrill.online&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Somapah%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
