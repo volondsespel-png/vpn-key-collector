@@ -1,1 +1,1 @@
-vless://f2083aa4-f27d-43da-81cf-8bab317304cb@cdn.tzpro.xyz:80?security=none&allowInsecure=0&encryption=none&type=ws&host=germany.vipserver14.workers.dev&path=/?ed=2048#🇩🇪 CxrolVPN
+vless://5d76bd7c-d538-432f-a7d8-9be364427a19@ghosts-spasm.quick-cdn.net:443?path=/ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ghosts-spasm.quick-cdn.net&fp=chrome&type=ws&allowInsecure=0&sni=ghosts-spasm.quick-cdn.net#🇩🇪205746 | ⚡️Telegram = t.me/LonUp_M
