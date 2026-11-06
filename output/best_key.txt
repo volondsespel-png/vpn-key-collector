@@ -1,1 +1,1 @@
-vless://72881b3f-76f7-4cae-912d-e95e602a5ca4@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com#🇺🇸10 | ⚡Telegram = t.me/ex_proxies
+vless://36592d47-b9f5-4e8f-949e-45ac05472aab@news.zoom.us:2083?path=/&security=tls&encryption=none&insecure=0&host=site.check-looks.space&fp=chrome&type=ws&allowInsecure=0&sni=site.check-looks.space#برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩
