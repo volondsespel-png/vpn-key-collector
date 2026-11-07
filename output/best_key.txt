@@ -1,1 +1,1 @@
-vless://5e610f80-fc6a-479d-8621-b672355b96a1@128.203.252.97:443?encryption=none&security=tls&sni=cf-1rm.pages.dev&fp=chrome&type=ws&host=cf-1rm.pages.dev&path=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@www.codex2api.com:443?encryption=none&security=tls&type=xhttp&sni=f0c5bfd6s394.fuhuovps.xyz&alpn=h2,http/1.1#🇨🇦208578 | ⚡️Telegram = t.me/LonUp_M
