@@ -1,1 +1,1 @@
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@www.codex2api.com:443?encryption=none&security=tls&type=xhttp&sni=f0c5bfd6s394.fuhuovps.xyz&alpn=h2,http/1.1#🇨🇦208578 | ⚡️Telegram = t.me/LonUp_M
+vless://c83f15bf-1817-4ec8-a19f-6393d226434c@fast.145779.xyz:2053?type=ws&path=%252Fws-tesla&host=&security=tls&sni=fast.145779.xyz&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20North%20Bergen%20%7C%20%5BBL%5D
