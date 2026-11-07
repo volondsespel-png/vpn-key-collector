@@ -1,1 +1,1 @@
-vless://36592d47-b9f5-4e8f-949e-45ac05472aab@news.zoom.us:2083?path=/&security=tls&encryption=none&insecure=0&host=site.check-looks.space&fp=chrome&type=ws&allowInsecure=0&sni=site.check-looks.space#برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩
+vless://5e610f80-fc6a-479d-8621-b672355b96a1@128.203.252.97:443?encryption=none&security=tls&sni=cf-1rm.pages.dev&fp=chrome&type=ws&host=cf-1rm.pages.dev&path=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
