@@ -1,1 +1,1 @@
-vless://34cb3fdc-2f33-49e0-8df3-d5793adf2de6@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/&security=tls&al
+vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@151.101.36.88:443?alpn=h3&encryption=none&host=ovd5.global.ssl.fastly.net&mode=auto&path=%2F&security=tls&sni=accounts.fastly.com&type=xhttp&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
