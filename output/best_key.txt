@@ -1,1 +1,1 @@
-vless://cbd0ff6d-2dff-4ceb-a049-388d9a8079fc@barbered-mattocks.video-streams.org:443?sni=barbered-mattocks.video-streams.org&type=ws&host=barbered-mattocks.video-streams.org&path=/wsfp=chrome&security=tls#[🇨🇦]t.me/v2ray_configs_pools
+vless://963A4918-A630-29DA-A873-093CDF8AD784@ancient-haze-d203.vpnetwork3567.workers.dev:443?encryption=none&type=ws&security=tls&sni=ancient-haze-d203.vpnetwork3567.workers.dev&alpn=http/1.1&host=ancient-haze-d203.vpnetwork3567.workers.dev&path=/#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Vienna%20%28Liesing%29%20%7C%20%5BBL%5D
